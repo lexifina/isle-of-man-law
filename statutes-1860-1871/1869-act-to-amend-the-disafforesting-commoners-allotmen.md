@@ -1,0 +1,9 @@
+At a Tpwwald Cowii hoUien^ at Saint John's Chapel, the fifth day ofJvUy^ in Me ikir^ third year of the reign of our Sovereipn Lady Victoria, by the grace of God of the United Kingdom of OreaJt Britain and Ireland, Queen, Dpender of the Fai^.tuut in the year of our Lord one thoutand eight hundred and eixty-nine, before hie kxed- leney Henry Brougham Loch, Etguire, Companion of the most Honourable Order </ the Bath, Lieutenant-Oovemor, the Council, Deemsters, and Keys,
+# An Act to amend '^The Disafforesting (Commoners' Allotment) Act, 1866.'' «
+Whereas by the sixty-fourth section of "The Disafforesting (Commoners* Allotment)
+1 The word " Act" omitted by error from the original
+2 See Royal Assent, p. 496.
+A si, 1866,** ao animals are allowed to grace on aoy part of the OommoDera' allotmoit unlet to teaaote, except between the first day of April and the first day of NoTember in ea^ ve: r, and it being deemed expedient t> anthcrisd the ttking of animals to grsze on sndi land^ ht any time of the year,-
+We, therefore, your Majesty's most dutiful and loyal subjects, the Lieutenant-Governor. Council, Deemfterp, end Keys of the said Tsle, do humbly beseech your Majesty that it may be enacted, and be it enacted, by the Qneen's most Excellent Majesty, by and with the adrice and consent of the Lieutenant -Governor, Council, Deemsters, and Keys in Tynwald sssembled, and by the authoritv of the same, as follows (that is to say):-
+L So much of the said Act as prohibits the Trustees of the Common Lvids allowing animals to grsze on any part of the Commoners* Allotment unlet to tenants, except between the first day of April and the fir^t day of November in each year, shall be, and same is, hereby repealed.
+^* '^i* ^^^ o^y ^ <^ited for all purposes a^ " The Disafforesting (Commoners' AUotment) Act, 1869.'
