@@ -1,0 +1,35 @@
+{
+ "parts": {
+  "10-criminal-code-1872.json": {
+   "acts": [
+    "criminal-code-1872"
+   ],
+   "sha256": "2553312e778bff861dc8208db608ce88d4fd15f701a24923abeda3b836bdf858"
+  },
+  "11-criminal-justice-1963.json": {
+   "acts": [
+    "criminal-justice-1963"
+   ],
+   "sha256": "38446fdc6a32e347cb3ea21d1aa887c35e1bf4319ce111d6ca7e19de71c092bc"
+  },
+  "12-evidence-1871.json": {
+   "acts": [
+    "evidence-1871"
+   ],
+   "sha256": "5f3a9385ae771e24d25696debecb62deb9b7b3145fe0de750a58f60d57d74a5a"
+  },
+  "13-companies-1931.json": {
+   "acts": [
+    "companies-1931"
+   ],
+   "sha256": "03ee0c9b10ee23b68ec9a5175103c4543ad4f5b18fdb5dfd9fd3792cca6dd705"
+  },
+  "14-constitution-1961.json": {
+   "acts": [
+    "constitution-1961"
+   ],
+   "sha256": "baadf888dfc69558b4e3b6e403083bc3ef5feacf2f17af533fb4af77f88e1ac5"
+  }
+ },
+ "schema": 1
+}
