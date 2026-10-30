@@ -1,0 +1,29 @@
+Law text: only words out of copyright.
+
+Copyright Act 1991 (AT 8 of 1991), section 157 (Copyright in Acts and Measures), as published on legislation.gov.im:
+
+  "(1) Her Majesty is entitled to copyright in every Act of Tynwald, Act of Parliament or Measure of the
+  General Synod of the Church of England.
+  (2) The copyright subsists from Royal Assent until the end of the period of 50 years from the end of the
+  calendar year in which Royal Assent was given.
+  ...
+  (5) No other copyright, or right in the nature of copyright, subsists in an Act of Tynwald, Act of
+  Parliament or Measure."
+
+So the copyright in an Act of Tynwald that received Royal Assent in 1975 or earlier has ended. This
+repository holds text only from such Acts, and only those provisions of them whose endnotes name no
+amending Act or other instrument made after 1975 (words put in by a later instrument may still be in
+copyright) and that show no fine amounts (the Acts' general notes say fines were raised by later Acts).
+The text is taken from the official revised editions published by the Isle of Man Government
+(Attorney General's Chambers) at https://legislation.gov.im. The editorial notes, endnotes and
+typographical arrangement of those editions are not copied. Acts assented after 1975 remain Crown
+copyright and are not copied here.
+
+Catalogue entries (short title, citation, Royal Assent date) are facts taken from the Acts' own front
+matter and from Wikipedia's "List of acts of Tynwald" (https://en.wikipedia.org/wiki/List_of_acts_of_Tynwald).
+Facts are not copyrightable; the list's own prose, which is licensed CC BY-SA 4.0, is not reproduced.
+
+The "legal-system" facts come from Wikidata (https://www.wikidata.org), released under CC0 1.0.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
