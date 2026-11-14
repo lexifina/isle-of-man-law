@@ -5,52 +5,82 @@
 <img alt="Manx law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Isle of Man's national law, which global-law reads at `isle-of-man/national/acts/`.
+The law of the Isle of Man as a git history: one file per section, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the source of every line; `git log` lists every change to a section; picking a date gives the text in force that day.
 
-The law of Isle of Man as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change; picking a date gives the text in force that day.
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Isle of Man's national law, which global-law reads at `isle-of-man/national/acts/`.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
+**What is in it now:** 226 sections of five Acts of Tynwald assented in 1975 or earlier (the Evidence Act 1871, the Criminal Code 1872, the Companies Act 1931, the Isle of Man Constitution Act 1961 and the Criminal Justice Act 1963), each in one version, the official revised edition, and only the sections whose words are out of Crown copyright; a catalogue of 859 Acts of Tynwald from 1645 to April 2026, by short title, citation and Royal Assent day only; and a few legal-system facts from Wikidata. [`catalogue/README.md`](catalogue/README.md) lists every catalogued Act, and each Act's `README.md` its sections.
 
-## What this repository holds
+Each Act has its own folder, one file per section: `constitution-1961/s-006.md` is section 6 of the Isle of Man Constitution Act 1961 (AT 6 of 1961), the Speaker's right to abstain from voting in the Keys. A catalogue entry is `catalogue/at-<year>-<number>.md` (`catalogue/at-1991-008.md` is the Copyright Act 1991, AT 8 of 1991).
 
-**Some law text, and a catalogue of every other Act.** Copyright in an Act of Tynwald ends 50 years after the end of the year it received Royal Assent (Copyright Act 1991 s 157(2)). So this repository holds the text of a few core Acts assented in 1975 or earlier, but only their provisions that no later instrument has amended: words put in by a later Act may still be in copyright. Provisions showing fine amounts are left out too, because the Acts' general notes say the amounts were raised by later Acts. Every other Act is listed only by its short title, citation and Royal Assent date. To read an Act in full, go to [legislation.gov.im](https://legislation.gov.im/).
+The text is in English, as the official revised editions print it.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `criminal-code-1872/` | Criminal Code 1872 (AT 1 of 1872) | 1 | 41 provisions, the official revised edition as published on 2024-08-14 |
-| `criminal-justice-1963/` | Criminal Justice Act 1963 (AT 3 of 1963) | 1 | 5 provisions, the official revised edition as published on 2021-05-06 |
-| `evidence-1871/` | Evidence Act 1871 (AT 1 of 1871) | 1 | 24 provisions, the official revised edition as published on 2025-01-21 |
-| `companies-1931/` | Companies Act 1931 (AT 2 of 1931) | 1 | 153 provisions, the official revised edition as published on 2026-01-02 |
-| `constitution-1961/` | Isle of Man Constitution Act 1961 (AT 6 of 1961) | 1 | 3 provisions, the official revised edition as published on 2022-01-21 |
-| `catalogue/` | Catalogue of Acts of Tynwald: short title, citation and Royal Assent date only | 524 | One version per Royal Assent day: 859 Acts from 1645 onward are listed, each added on the day it received Royal Assent |
-| `legal-system/` | Legal system facts from Wikidata (CC0) | 2 | The island's inception date Wikidata records (10 May 1765), then the facts held on 30 October 2026. |
+## Questions as git commands
 
-Each Act's commit message lists the provisions left out and why.
+| Question | Command |
+| --- | --- |
+| Every change to section 6 of the Constitution Act 1961 | `git log -p --word-diff -- constitution-1961/s-006.md` |
+| Who is credited with each line of section 6? | `git blame constitution-1961/s-006.md` |
+| Every version of the Constitution Act 1961, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution-1961` |
+| Section 6 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 constitution-1961 s-006` |
 
-## Sources
+**Outside git**, we also host this record publicly, for free:
 
-The Act texts come from the official revised editions (PDF) of the Isle of Man Government, Attorney General's Chambers, published on [legislation.gov.im](https://legislation.gov.im/). Each version names the edition's address, its revision number and the sha256 of the file it was read from. Every provision was checked word for word against a second, independent reading of the same file.
+- **[Ask Claude about Manx law](https://global-law.lexifina.com/v1/try_claude?country=isle-of-man)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=isle-of-man)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=witness&jurisdictions=isle-of-man)**: a search of Manx law for "witness", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-The Royal Assent date and citation (for example `AT 8 of 1991`) of 548 catalogue entries come from the Acts' own front matter, the "Received Royal Assent" line of each Act's official PDF; only the date and citation were taken. The other Acts' short titles, citations and Royal Assent dates are facts from Wikipedia's [List of acts of Tynwald](https://en.wikipedia.org/wiki/List_of_acts_of_Tynwald); the official date replaces Wikipedia's wherever both exist (535 agreed, 4 differed). The list is incomplete, and only entries with a full Royal Assent date are used. No text of the list is reproduced. The Wikidata facts are from [Wikidata](https://www.wikidata.org/wiki/Q9676) (CC0).
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add isle-of-man/national/acts
+python3 tools/law.py show 2026-01-01 isle-of-man/national/acts/constitution-1961/s-006.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-The revised editions state no "as at" date, so each Act has one version, "oldest version available", dated by the day that edition was published and credited to the publisher. The provisions kept have no amendment notes, so their words are as enacted; the Act's own law entry gives its Royal Assent and commencement dates. A catalogue entry is dated by the Act's Royal Assent date, not its commencement date, and is credited to a `catalogue-<date>` entry. The Wikidata facts are dated by the inception date Wikidata records, then by the retrieval date (30 October 2026). Dates before 1752 are given as the list gives them, without conversion between calendars.
+Each commit is dated at noon, Europe/London, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- for an Act's text, the day legislation.gov.im published the revised edition: the editions state no "as at" date, so each Act's one version is its "oldest version available" (the Constitution Act's is 21 January 2022);
+- for a catalogue entry, the Act's Royal Assent day, not its commencement; days before 1752 are given as the list gives them, with no change of calendar;
+- git cannot store dates before 1970, so the 189 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
+
+No section is yet credited to an act: each Act's text is credited to its publisher, the Isle of Man Government, Attorney General's Chambers (legislation.gov.im), and each catalogue day to `Acts of Tynwald assented on <date>` (the first, 1645, to the Wikipedia list's contributors). The committer is always Lexifina.
 
 ## How it is checked
 
-Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`) and must match `corpus.json`; results are in `REPRODUCE.md`.
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 531 versions, no mismatch. The results are in [`REPRODUCE.md`](REPRODUCE.md); a second build has not yet been compared.
+- `tools/verify_acts.py` checks every kept section, letter for letter, against a second, independent text extraction of the same official PDF.
+- Each Act's commit names the edition it was read from and lists every section left out, and why.
+- History is append-only: no merge commits, no commit dated in the future, and every commit's trailers parse.
 
-## What "author" means
+## What it does not show
 
-The author of a commit is the law (or, for facts, the retrieval or the publisher) that made the change, with an e-mail address that cannot exist. The committer is always Lexifina.
+- **Changes over time.** Each Act has one version, its current revised edition; amendments and earlier texts are not recorded.
+- **Most of each Act.** 275 of the five Acts' 501 sections are left out: those changed by an instrument after 1975 or with an undated endnote, whose words may still be in copyright, and those showing fine amounts, which later Acts raised.
+- **Acts assented from 1976.** They are Crown copyright and are in the catalogue only. To read any Act in full, go to [legislation.gov.im](https://legislation.gov.im/).
+- **Subsidiary legislation, case law and treaties.** None is here.
+- **A complete catalogue.** The Wikipedia list it partly comes from is incomplete, Acts without a full Royal Assent date are left out, and repeals and long titles are not recorded.
+- **Headings and notes.** Part headings, general notes and endnotes are not law text and are not in the files.
 
-## Limits
+## Sources
 
-- **No history yet.** Each Act has a single version; amendments are not recorded, and amended, inserted and repealed provisions are not shown.
-- **Part and group headings, general notes and endnotes** are not law text and are not in the files.
-- **The catalogue** only grows as Acts are enacted; repeals are not recorded and long titles are not copied.
-- Nothing here is an official record of the Acts.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [legislation.gov.im](https://legislation.gov.im/) (Isle of Man Government, Attorney General's Chambers) | Official revised editions of the Acts of Tynwald (PDF) | no, the current edition only | The text of the five Acts; the citation and Royal Assent day of 548 catalogue entries, from each Act's front matter |
+| [List of acts of Tynwald](https://en.wikipedia.org/wiki/List_of_acts_of_Tynwald) (Wikipedia) | List of Acts | no | Short title, citation and Royal Assent day of the other entries, as facts; where both give a day, the official one is used |
+| [Wikidata](https://www.wikidata.org/wiki/Q9676) | Legal-system facts | as retrieved | CC0 |
+
+## Licence
+
+See [`LICENSE`](LICENSE). Copyright in an Act of Tynwald ends 50 years after the end of the year of Royal Assent (Copyright Act 1991, s 157(2)), so only words of Acts assented in 1975 or earlier, not put in by a later instrument, are copied; the editions' notes and layout are not. The catalogue holds facts only, and Lexifina's own work (the history, commit messages, tables and tools) is CC0 1.0.
+
+No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
