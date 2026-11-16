@@ -59,6 +59,7 @@ No section is yet credited to an act: each Act's text is credited to its publish
 - `tools/verify_acts.py` checks every kept section, letter for letter, against a second, independent text extraction of the same official PDF.
 - Each Act's commit names the edition it was read from and lists every section left out, and why.
 - History is append-only: no merge commits, no commit dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ No section is yet credited to an act: each Act's text is credited to its publish
 See [`LICENSE`](LICENSE). Copyright in an Act of Tynwald ends 50 years after the end of the year of Royal Assent (Copyright Act 1991, s 157(2)), so only words of Acts assented in 1975 or earlier, not put in by a later instrument, are copied; the editions' notes and layout are not. The catalogue holds facts only, and Lexifina's own work (the history, commit messages, tables and tools) is CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
