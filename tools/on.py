@@ -23,12 +23,17 @@ def git(*args: str) -> str:
 
 
 def branches() -> tuple[str, str | None]:
-    """main, and the future branch named in data/repo.json (local or origin/), if it exists."""
+    """main and the descriptor's future branch, with the old data/repo.json as a read-only fallback."""
     import json
     try:
-        name = json.loads(git('show', 'main:data/repo.json')).get('future_branch')
+        name = json.loads(git('show', 'main:corpus.json')).get('future_branch')
     except (subprocess.CalledProcessError, ValueError):
         name = None
+    if not name:
+        try:
+            name = json.loads(git('show', 'main:data/repo.json')).get('future_branch')
+        except (subprocess.CalledProcessError, ValueError):
+            name = None
     if not name:
         return 'main', None
     for ref in (name, f'origin/{name}'):
@@ -204,9 +209,15 @@ def resolve(commit: str, act: str, unit: str, files: list[str] | None = None) ->
     exact = f'{act}/{unit}.md'
     if exact in files:
         return exact
+    d = re.fullmatch(r'(\d+)\.(\d+)([a-z]*)', unit, re.I)
+    if d:   # a dotted section number: "14.70" is the file sec-14-070
+        want = re.compile(rf'{re.escape(act)}/[a-z-]*0*{int(d.group(1))}-0*{int(d.group(2))}{re.escape(d.group(3))}\.md$', re.I)
+        hits = [f for f in files if want.match(f)]
+        if len(hits) == 1:
+            return hits[0]
     m = re.fullmatch(r'(\d+)(.*)', unit)
     if m:
-        want = re.compile(rf'{re.escape(act)}/[a-z-]*0*{int(m.group(1))}{re.escape(m.group(2))}\.md$')
+        want = re.compile(rf'{re.escape(act)}/[a-z-]*0*{int(m.group(1))}{re.escape(m.group(2))}\.md$', re.I)  # 78A finds sec-078a
         hits = [f for f in files if want.match(f)]
         # A bare number means the article: "19" is art-019, not a transitional provision numbered 19.
         arts = [f for f in hits if f.split('/', 1)[1].startswith(('art-', 'art'))]
@@ -277,7 +288,16 @@ def corrected(day: str, args: list[str], show_law: bool, rd_main: Reader, rd_fut
         acts = sorted({p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
                        if '/' in p and p.split('/')[0] not in ('data', 'tools')})
         for act in acts:
-            files, hit, used = reader(act).files(act, day)
+            rd = reader(act)
+            files, hit, used = rd.files(act, day)
+            # Acts inside this folder with an Act-path of their own (a one-file act such as title-11/362,1.md in a
+            # folder shared with other acts): their corrections that hold on the day mark the folder too.
+            inner = sorted({p for f in rd.fixes for p in f['paths'].values() if p.startswith(act + '/')})
+            if inner:
+                seen = {f['commit'] for f in used}
+                for p in inner:
+                    seen |= {f['commit'] for f in rd.files(p, day)[2]}
+                used = [f for f in rd.fixes if f['commit'] in seen]  # in commit order
             if files is None:
                 print(f'{act}\tnot in force yet')
             elif hit:

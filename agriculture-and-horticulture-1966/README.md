@@ -1,0 +1,7 @@
+# Agriculture and Horticulture Act 1966
+
+Agriculture and Horticulture Act 1966 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0003/1966-0003_2.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| s 3 | [s-003.md](s-003.md) | 0 |  |

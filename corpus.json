@@ -1,0 +1,21 @@
+{
+ "corpus": "im/national/acts",
+ "path": "isle-of-man/national/acts",
+ "scope": "selected-acts",
+ "acts": 153,
+ "future_branch": "future",
+ "publisher": "Wikipedia contributors (List of acts of Tynwald); citations are the Isle of Man Government's",
+ "name": "Isle of Man",
+ "language": "en",
+ "coverage": "153 acts of Isle of Man with every dated version the source gives (689 versions), in force from 1645-06-25 to 2026-11-26",
+ "history": "in-force",
+ "history_from": "1645-06-25",
+ "record_to": "2026-11-26",
+ "checked_on": "2026-11-26",
+ "record_note": "Texts from Wikipedia contributors (List of acts of Tynwald); citations are the Isle of Man Government's.",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/s-0*([0-9]+[a-z]?)\\.md",
+  "cites": "([Ss]ection|s\\.|§) ?{n}([^0-9a-zA-Z]|$)"
+ }
+}
