@@ -1,6 +1,6 @@
 # Land Drainage Act 1934
 
-Land Drainage Act 1934 · 1 versions, from 2012-07-06 (latest in force: 2012-07-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0004/1934-0004_1.pdf>
+Land Drainage Act 1934 · 1 versions, from 1934-07-06 (latest in force: 1934-07-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0004/1934-0004_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

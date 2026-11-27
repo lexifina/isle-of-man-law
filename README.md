@@ -9,7 +9,7 @@ The law of the Isle of Man as a git history: one file per section, one commit pe
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Isle of Man's national law, which global-law reads at `isle-of-man/national/acts/`.
 
-**What is in it now:** 1,139 sections of 149 Acts of Tynwald assented from 1704 to 1975 (among them the Evidence Act 1871, the Criminal Code 1872, the Companies Act 1931 and the Isle of Man Constitution Act 1961), each in one version, the official revised edition, and only the sections whose words are out of Crown copyright; 14 Acts of 1859 to 1871 as enacted, from Gill's printed Statutes of the Isle of Man (scan text, uncorrected); a catalogue of 855 Acts of Tynwald from 1645 to April 2026, by short title, citation and Royal Assent day only; and a few legal-system facts from Wikidata. [`catalogue/README.md`](catalogue/README.md) lists every catalogued Act, and each Act's `README.md` its sections.
+**What is in it now:** 1,139 sections of 149 Acts of Tynwald assented from 1704 to 1975 (among them the Evidence Act 1871, the Criminal Code 1872, the Companies Act 1931 and the Isle of Man Constitution Act 1961), each in one version, the official revised edition, and only the sections whose words are out of Crown copyright; 14 Acts of 1859 to 1871 as enacted, from Gill's printed Statutes of the Isle of Man (scan text, uncorrected); a catalogue of 855 Acts of Tynwald from 1645 to April 2026, by short title, citation and Royal Assent day only; and the Isle of Man's inception date from Wikidata. [`catalogue/README.md`](catalogue/README.md) lists every catalogued Act, and each Act's `README.md` its sections.
 
 Each Act has its own folder, one file per section: `constitution-1961/s-006.md` is section 6 of the Isle of Man Constitution Act 1961 (AT 6 of 1961), the Speaker's right to abstain from voting in the Keys. A catalogue entry is `catalogue/at-<year>-<number>.md` (`catalogue/at-1991-008.md` is the Copyright Act 1991, AT 8 of 1991).
 
@@ -79,7 +79,7 @@ No section is yet credited to an act: each Act's text is credited to its publish
 | [legislation.gov.im](https://legislation.gov.im/) (Isle of Man Government, Attorney General's Chambers) | Official revised editions of the Acts of Tynwald (PDF), read from Internet Archive copies | no, the current edition only | The text of the 149 pre-1976 Acts (the archived copies of the further 144 used); the citation and Royal Assent day of 548 catalogue entries, from each Act's front matter |
 | [The Statutes of the Isle of Man, vol. III](https://archive.org/details/statutesisleman01mangoog) (ed. J. F. Gill, printed by authority, 1888) | Acts of 1859-1871 as enacted; Google Books scan on the Internet Archive, its text layer | no, as enacted | Secondary copy, uncorrected OCR; each commit says so in its `Source-status`, `Text-source` and `In-force-basis` trailers |
 | [List of acts of Tynwald](https://en.wikipedia.org/wiki/List_of_acts_of_Tynwald) (Wikipedia) | List of Acts | no | Short title, citation and Royal Assent day of the other entries, as facts; where both give a day, the official one is used |
-| [Wikidata](https://www.wikidata.org/wiki/Q9676) | Legal-system facts | as retrieved | CC0 |
+| [Wikidata](https://www.wikidata.org/wiki/Q9676) | Legal-system facts (the inception date only) | no | CC0 |
 
 ## Licence
 

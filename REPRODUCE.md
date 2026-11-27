@@ -19,7 +19,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
 | `catalogue` | Catalogue of Acts of Tynwald (titles, citations and Royal Assent dates only) | 524 | 1645-06-25 to 2026-04-21 |
-| `legal-system` | Isle of Man: legal system facts (Wikidata) | 2 | 1765-05-10 to 2026-10-30 |
+| `legal-system` | Isle of Man: legal system facts (Wikidata) | 1 | 1765-05-10 to 1765-05-10 |
 | `criminal-code-1872` | Criminal Code 1872 | 1 | 1872-07-05 to 1872-07-05 |
 | `criminal-justice-1963` | Criminal Justice Act 1963 | 1 | 1963-10-15 to 1963-10-15 |
 | `evidence-1871` | Evidence Act 1871 | 1 | 1871-07-05 to 1871-07-05 |
@@ -75,7 +75,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `partition-1931` | Partition Act 1931 | 1 | 1931-06-09 to 1931-06-09 |
 | `wild-birds-protection-1932` | Wild Birds Protection Act 1932 | 1 | 1932-07-05 to 1932-07-05 |
 | `agricultural-marketing-1934` | Agricultural Marketing Act 1934 | 1 | 1934-09-14 to 1934-09-14 |
-| `land-drainage-1934` | Land Drainage Act 1934 | 1 | 2012-07-06 to 2012-07-06 |
+| `land-drainage-1934` | Land Drainage Act 1934 | 1 | 1934-07-06 to 1934-07-06 |
 | `bankers-books-evidence-1935` | Bankers' Books Evidence Act 1935 | 1 | 1935-06-11 to 1935-06-11 |
 | `emergency-powers-1936` | Emergency Powers Act 1936 | 1 | 1936-06-09 to 1936-06-09 |
 | `factories-and-workshops-amendment-1936` | Factories and Workshops Amendment Act 1936 | 1 | 1936-03-27 to 1936-03-27 |
@@ -173,19 +173,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `fertilisers-and-feeding-stuffs-1975` | Fertilisers and Feeding Stuffs Act 1975 | 1 | 1976-06-01 to 1976-06-01 |
 | `statutes-1860-1871` | Statutes of the Isle of Man, vol. III (1860-1871), ed. J. F. Gill (Douglas, 1888) | 13 | 1859-07-06 to 1871-05-16 |
 
-The build made 994 commits:
+The build made 997 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 153 | baseline texts where the record starts |
 | 538 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 303 | corrections to the existing record |
+| 306 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-27.
-- 463 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 466 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 690 laws in the record.
 - 1232 tags.
 
@@ -199,7 +199,7 @@ When a law gives no date of its own, the default rule applies: Catalogue entries
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `03002525863719ade8e1b1e8d6ca4e477ac632bc23a4e3eb5062cba398ee8e29` (3228437 bytes).
+- Corpus: sha256 `07450e779cdcfa17b407b47e21e6ca8f91dd805e3c50fc8bd143711825a06308` (3227284 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -215,8 +215,8 @@ No second build of this corpus has been compared yet.
 - The catalogue holds facts only (short title, citation "AT n of YYYY", Royal Assent date). Long titles are descriptive text and are not copied.
 - Royal Assent dates are taken from the "Received Royal Assent" line in the front of each Act’s own PDF matter on legislation.gov.im, read from Internet Archive copies; they replace the Wikipedia list’s date wherever both exist. Acts whose PDF is not archived keep the Wikipedia date.
 - One version per Royal Assent date, credited to a catalogue-<date> entry; acts without a full Royal Assent date in the source list are left out.
-- Wikidata facts (CC0) form the "legal-system" act: one version at the inception date Wikidata records, one at the retrieval date 2026-10-30.
 - Not built: treaty actions (the Isle of Man is not itself a party; UK treaties are extended to it by declaration, and no open list was read in the time box).
+- Wikidata facts (CC0) form the "legal-system" act: one version at the inception date Wikidata records. The undated facts first added at the retrieval date 2026-10-30 were removed on 2026-11-27, as a retrieval date is not an in-force day.
 - Criminal Code 1872: one version, the official revised edition as published on 2024-08-14 (the PDF states no 'as at' date, so it is dated by the day that copy was published); only provisions out of Crown copyright (Copyright Act 1991 s 157(2)) and with no endnote naming an instrument after 1975 are kept (41 kept, 81 left out).
 - 2026-11-27: each Act is re-dated from the day its revised edition was published or captured (a retrieval date) to the day the Act prints: its commencement day, else its promulgation ("Passed") day, else its Royal Assent day. Provisions whose words carry an amendment note are held, as no day is printed for their current words.
 - Criminal Justice Act 1963: one version, the official revised edition as published on 2021-05-06 (the PDF states no 'as at' date, so it is dated by the day that copy was published); only provisions out of Crown copyright (Copyright Act 1991 s 157(2)) and with no endnote naming an instrument after 1975 are kept (5 kept, 15 left out).

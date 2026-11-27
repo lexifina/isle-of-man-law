@@ -4733,19 +4733,10 @@
    "versions": [
     {
      "from": "1765-05-10",
-     "to": "2026-10-29",
-     "status": "replaced",
-     "text_as_of": null,
-     "units": 1,
-     "source_url": "https://www.wikidata.org/wiki/Q9676",
-     "sha256": "wikidata-entity-Q9676"
-    },
-    {
-     "from": "2026-10-30",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 4,
+     "units": 1,
      "source_url": "https://www.wikidata.org/wiki/Q9676",
      "sha256": "wikidata-entity-Q9676"
     }
@@ -5693,7 +5684,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0004/1934-0004_1.pdf",
    "versions": [
     {
-     "from": "2012-07-06",
+     "from": "1934-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
