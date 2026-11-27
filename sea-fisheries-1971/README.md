@@ -1,6 +1,6 @@
 # Sea-Fisheries Act 1971
 
-Sea-Fisheries Act 1971 · 1 versions, from 2025-05-08 (latest in force: 2025-05-08) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0018/1971-0018_2.pdf>
+Sea-Fisheries Act 1971 · 1 versions, from 1971-10-19 (latest in force: 1971-10-19) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0018/1971-0018_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

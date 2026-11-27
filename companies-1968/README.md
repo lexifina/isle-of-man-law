@@ -1,6 +1,6 @@
 # Companies Act 1968
 
-Companies Act 1968 · 1 versions, from 2024-06-20 (latest in force: 2024-06-20) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0002/1968-0002_4.pdf>
+Companies Act 1968 · 1 versions, from 1968-04-09 (latest in force: 1968-04-09) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0002/1968-0002_4.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

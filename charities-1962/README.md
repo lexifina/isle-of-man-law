@@ -1,6 +1,6 @@
 # Charities Act 1962
 
-Charities Act 1962 · 1 versions, from 2021-09-26 (latest in force: 2021-09-26) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1962/1962-0001/CharitiesAct1962_2.pdf>
+Charities Act 1962 · 1 versions, from 1962-02-13 (latest in force: 1962-02-13) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1962/1962-0001/CharitiesAct1962_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

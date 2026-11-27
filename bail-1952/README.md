@@ -1,6 +1,6 @@
 # Bail Act 1952
 
-Bail Act 1952 · 1 versions, from 2019-09-17 (latest in force: 2019-09-17) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0002/BailAct1952_2.pdf>
+Bail Act 1952 · 1 versions, from 1952-07-07 (latest in force: 1952-07-07) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0002/BailAct1952_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

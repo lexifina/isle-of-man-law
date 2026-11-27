@@ -1,6 +1,6 @@
 # Highway Act 1927
 
-Highway Act 1927 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0003/1927-0003_1.pdf>
+Highway Act 1927 · 1 versions, from 1927-10-21 (latest in force: 1927-10-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0003/1927-0003_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

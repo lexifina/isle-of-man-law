@@ -4719,7 +4719,7 @@
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 859,
+     "units": 855,
      "source_url": "https://legislation.gov.im/",
      "sha256": "8b2f79ca9fce1d4f82750e4801be424a6aaa50a6d300f0275456d4e74d12c777"
     }
@@ -4758,7 +4758,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1872/1872-0001/1872-0001_5.pdf",
    "versions": [
     {
-     "from": "2024-08-14",
+     "from": "1872-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4775,7 +4775,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0003/CriminalJusticeAct1963_5.pdf",
    "versions": [
     {
-     "from": "2021-05-06",
+     "from": "1963-10-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4792,7 +4792,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1871/1871-0001/1871-0001_4.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1871-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4809,7 +4809,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0002/1931-0002_12.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1931-10-16",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4826,7 +4826,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0006/IsleofManConstitutionAct1961_1.pdf",
    "versions": [
     {
-     "from": "2022-01-21",
+     "from": "1962-01-13",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4843,7 +4843,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1704/1704-0002/1704-0002_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1704-06-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4860,11 +4860,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1705/1705-0001/1705-0001.pdf",
    "versions": [
     {
-     "from": "2024-06-05",
+     "from": "1705-06-25",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 2,
+     "units": 1,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1705/1705-0001/1705-0001.pdf",
      "sha256": "2f307b925ed19ef4118543b7a39e1d0bd0453c97631b6eedd078609a7b42887c"
     }
@@ -4877,7 +4877,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1753/1753-0001/GregorianCalendarAct1753_1.pdf",
    "versions": [
     {
-     "from": "2022-10-13",
+     "from": "1753-03-31",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4894,11 +4894,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1753/1753-0002/TrespassAct1753_1.pdf",
    "versions": [
     {
-     "from": "2018-07-13",
+     "from": "1753-01-08",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 3,
+     "units": 2,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1753/1753-0002/TrespassAct1753_1.pdf",
      "sha256": "f6c3bb14d9f0d5405e60e1890296080fb96be9a9111efc67e237d2adcff648b1"
     }
@@ -4911,11 +4911,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1796/1796-0001/CommonLawCourtsAct1796_1.pdf",
    "versions": [
     {
-     "from": "2022-07-05",
+     "from": "1796-09-12",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 3,
+     "units": 1,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1796/1796-0001/CommonLawCourtsAct1796_1.pdf",
      "sha256": "2ed253c8598bfbaea84fc3beff0da0f73fe505b1778f1f7a153799538821ff6d"
     }
@@ -4928,11 +4928,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1846/1846-0001/1846-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1846-12-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 8,
+     "units": 7,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1846/1846-0001/1846-0001_2.pdf",
      "sha256": "64dd812ba15be0ae7e4224e9f529dd9458b46950567fd23643e61753aaadc394"
     }
@@ -4945,7 +4945,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1874/1874-0002/BrewersAct1874_1.pdf",
    "versions": [
     {
-     "from": "2013-11-11",
+     "from": "1874-09-11",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4962,7 +4962,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1876/1876-0004/1876-0004_2.pdf",
    "versions": [
     {
-     "from": "2025-04-27",
+     "from": "1877-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -4979,11 +4979,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1879/1879-0001/1879-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1879-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 25,
+     "units": 20,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1879/1879-0001/1879-0001_2.pdf",
      "sha256": "030785a966aa622e687a6231a96215a411a4546f39b870813ad71c72d5542ee6"
     }
@@ -4996,7 +4996,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1880/1880-0001/1880-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1880-07-31",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5013,7 +5013,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1882/1882-0001/1882-0001_1.pdf",
    "versions": [
     {
-     "from": "2026-02-23",
+     "from": "1882-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5030,7 +5030,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0001/1883-0001.pdf",
    "versions": [
     {
-     "from": "2026-01-22",
+     "from": "1884-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5047,11 +5047,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0002/ExplosiveSubstancesAct1883_1.pdf",
    "versions": [
     {
-     "from": "2022-12-15",
+     "from": "1883-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 9,
+     "units": 7,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0002/ExplosiveSubstancesAct1883_1.pdf",
      "sha256": "e7b1705428c49c6f5df6bf4d5f8ef20e7e99faef5909c0f62cd97b6947138aed"
     }
@@ -5064,11 +5064,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0004/1883-0004_1.pdf",
    "versions": [
     {
-     "from": "2026-07-27",
+     "from": "1883-03-30",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 3,
+     "units": 2,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0004/1883-0004_1.pdf",
      "sha256": "9beb071d523f657af50d0d28997429a7471f4a313ed3df9eeb98d9484b1b5072"
     }
@@ -5081,11 +5081,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1886/1886-0002/1886-0002.pdf",
    "versions": [
     {
-     "from": "2025-12-06",
+     "from": "1886-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 5,
+     "units": 4,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1886/1886-0002/1886-0002.pdf",
      "sha256": "873fd7307310e3b61da5f4eba98dfff757cb6701dd1ff311eb087dcb5474de77"
     }
@@ -5098,11 +5098,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0001/1892-0001_3.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1893-01-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 68,
+     "units": 65,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0001/1892-0001_3.pdf",
      "sha256": "1e83ecff5681780fcb2e76c1579862cc3b1f718a9e59c112b3a41d232e0e7a99"
     }
@@ -5115,7 +5115,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0002/1892-0002_1.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1893-01-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5132,7 +5132,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0006/IndustrialandBuildingSocietiesAct1892_3.pdf",
    "versions": [
     {
-     "from": "2022-04-20",
+     "from": "1892-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5149,7 +5149,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0007/1892-0007_2.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1892-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5166,7 +5166,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1895/1895-0001/1895-0001_4.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1895-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5183,7 +5183,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1895/1895-0003/DouglasMunicipalCorporationAct1895_3.pdf",
    "versions": [
     {
-     "from": "2021-07-25",
+     "from": "1896-01-07",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5200,7 +5200,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1896/1896-0002/1896-0002_2.pdf",
    "versions": [
     {
-     "from": "2024-04-22",
+     "from": "1896-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5217,7 +5217,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1897/1897-0001/1897-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1897-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5234,7 +5234,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1897/1897-0002/1897-0002_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1897-07-20",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5251,7 +5251,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1906/1906-0001/1906-0001_2.pdf",
    "versions": [
     {
-     "from": "2025-04-02",
+     "from": "1906-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5268,7 +5268,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1907/1907-0002/1907-0002_2.pdf",
    "versions": [
     {
-     "from": "2024-05-25",
+     "from": "1907-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5285,7 +5285,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1908/1908-0004/PreferentialPaymentsAct1908_4.pdf",
    "versions": [
     {
-     "from": "2021-01-17",
+     "from": "1908-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5302,11 +5302,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1909/1909-0001/FactoriesandWorkshopsAct1909_1.pdf",
    "versions": [
     {
-     "from": "2022-03-19",
+     "from": "1910-01-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 16,
+     "units": 11,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1909/1909-0001/FactoriesandWorkshopsAct1909_1.pdf",
      "sha256": "f84bf49112bdb826ced21de7a8c995916d9118a39144def1cdbeac7aa623631e"
     }
@@ -5319,11 +5319,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1909/1909-0003/PartnershipAct1909_10.pdf",
    "versions": [
     {
-     "from": "2021-09-20",
+     "from": "1909-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 42,
+     "units": 41,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1909/1909-0003/PartnershipAct1909_10.pdf",
      "sha256": "ae117b0b2b9bc62435bfb4c8b75a6bf02f6a7ebd760484f971170f634de7cc68"
     }
@@ -5336,7 +5336,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1914/1914-0001/1914-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1915-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5353,11 +5353,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1916/1916-0002/1916-0002_4.pdf",
    "versions": [
     {
-     "from": "2024-05-23",
+     "from": "1917-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 33,
+     "units": 26,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1916/1916-0002/1916-0002_4.pdf",
      "sha256": "6c99e2243c7246e621b39b93ab3234278180f7a5b6428d91b2aa30042a17c291"
     }
@@ -5370,7 +5370,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1918/1918-0001/1918-0001_6.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1918-11-26",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5387,11 +5387,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1919/1919-0002/1919-0002_7.pdf",
    "versions": [
     {
-     "from": "2025-12-06",
+     "from": "1919-10-07",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 7,
+     "units": 5,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1919/1919-0002/1919-0002_7.pdf",
      "sha256": "40eb551363098e9eed2ab193dfe5b169bb0e05f6deb1071aea3e791f9627448d"
     }
@@ -5404,7 +5404,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1919/1919-0003/TynwaldCourtAdjournmentsAct1919_1.pdf",
    "versions": [
     {
-     "from": "2022-01-21",
+     "from": "1919-06-25",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5421,7 +5421,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1921/1921-0004/1921-0004_1.pdf",
    "versions": [
     {
-     "from": "2025-05-09",
+     "from": "1921-08-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5438,7 +5438,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1921/1921-0005/1921-0005_1.pdf",
    "versions": [
     {
-     "from": "2025-05-08",
+     "from": "1921-04-12",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5455,7 +5455,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1924/1924-0001/1924-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1924-10-07",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5472,7 +5472,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0001/1927-0001_2.pdf",
    "versions": [
     {
-     "from": "2025-05-08",
+     "from": "1927-10-27",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5489,7 +5489,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0003/1927-0003_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1927-10-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5506,7 +5506,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0005/PettySessionsandSummaryJurisdictionAct1927_2.pdf",
    "versions": [
     {
-     "from": "2018-11-05",
+     "from": "1928-01-13",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5523,11 +5523,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0006/1927-0006_1.pdf",
    "versions": [
     {
-     "from": "2025-05-08",
+     "from": "1927-05-24",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 6,
+     "units": 5,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0006/1927-0006_1.pdf",
      "sha256": "711332db4f130b0bd4ae6fda865dc99d42ee30c68153fed00387b6157e15a8c7"
     }
@@ -5540,7 +5540,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1928/1928-0001/1928-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1928-02-17",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5557,7 +5557,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1928/1928-0003/1928-0003_1.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1928-06-11",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5574,7 +5574,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1928/1928-0005/1928-0005_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1928-06-11",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5591,7 +5591,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1929/1929-0001/CensusAct1929_2.pdf",
    "versions": [
     {
-     "from": "2021-07-25",
+     "from": "1929-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5608,7 +5608,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1930/1930-0003/MembersofTynwaldDisqualificationAct1930_1.pdf",
    "versions": [
     {
-     "from": "2022-01-21",
+     "from": "1930-06-04",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5625,7 +5625,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0003/FactoriesandWorkshopsAmendmentAct1931_1.pdf",
    "versions": [
     {
-     "from": "2022-03-19",
+     "from": "1931-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5642,7 +5642,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0007/1931-0007.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1931-06-09",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5659,11 +5659,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1932/1932-0002/1932-0002_2.pdf",
    "versions": [
     {
-     "from": "2025-05-07",
+     "from": "1932-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 15,
+     "units": 10,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1932/1932-0002/1932-0002_2.pdf",
      "sha256": "78bb7e2af2bf0d30910a9ebd33ab25e227490b12a0b6dc08d69e2e9fba8902a6"
     }
@@ -5676,7 +5676,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0001/1934-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1934-09-14",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5693,11 +5693,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0004/1934-0004_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "2012-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 8,
+     "units": 6,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0004/1934-0004_1.pdf",
      "sha256": "14d65216f96ab67dd54ea21e48c41c8a4d4c1eaef72a0e2635badf4c6476afe6"
     }
@@ -5710,7 +5710,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1935/1935-0001/1935-0001.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1935-06-11",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5727,7 +5727,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1936/1936-0001/EmergencyPowersAct1936_1.pdf",
    "versions": [
     {
-     "from": "2020-04-14",
+     "from": "1936-06-09",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5744,11 +5744,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1936/1936-0003/FactoriesandWorkshopsAmendmentAct1936_1.pdf",
    "versions": [
     {
-     "from": "2022-03-19",
+     "from": "1936-03-27",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 5,
+     "units": 4,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1936/1936-0003/FactoriesandWorkshopsAmendmentAct1936_1.pdf",
      "sha256": "c6186eeb7d2df909496bcd3d88359f7cf11dc1b5366bef91d2646af3e4a649bb"
     }
@@ -5761,7 +5761,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1936/1936-0006/1936-0006_2.pdf",
    "versions": [
     {
-     "from": "2025-05-09",
+     "from": "1936-06-09",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5778,7 +5778,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1936/1936-0009/TradeDisputesRegulationAct1936_1.pdf",
    "versions": [
     {
-     "from": "2014-07-17",
+     "from": "1936-06-09",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5795,7 +5795,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1937/1937-0001/BlindPersonsWelfareAct1937_1.pdf",
    "versions": [
     {
-     "from": "2022-10-11",
+     "from": "1937-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5812,7 +5812,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1937/1937-0002/1937-0002_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1937-03-02",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5829,7 +5829,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1938/1938-0001/1938-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1938-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5846,7 +5846,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1938/1938-0003/InfanticideandInfantLifePreservationAct1938_1.pdf",
    "versions": [
     {
-     "from": "2019-07-12",
+     "from": "1938-05-03",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5863,7 +5863,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1939/1939-0001/1939-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-04-20",
+     "from": "1939-10-31",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5880,7 +5880,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1939/1939-0003/FactoriesandWorkshopsAmendmentAct1939_1.pdf",
    "versions": [
     {
-     "from": "2022-03-19",
+     "from": "1939-11-28",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5897,7 +5897,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1939/1939-0009/1939-0009_1.pdf",
    "versions": [
     {
-     "from": "2025-05-09",
+     "from": "1939-08-04",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5914,11 +5914,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1941/1941-0001/HouseofKeysandPublicAuthoritiesElectionsAct1941_2.pdf",
    "versions": [
     {
-     "from": "2022-07-07",
+     "from": "1941-10-14",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 4,
+     "units": 3,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1941/1941-0001/HouseofKeysandPublicAuthoritiesElectionsAct1941_2.pdf",
      "sha256": "e2c8572415cd2c97d598edec8b60031c49b1db6e833fa17e1e296de6dac49e68"
     }
@@ -5931,7 +5931,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1942/1942-0001/1942-0001_1.pdf",
    "versions": [
     {
-     "from": "2025-05-04",
+     "from": "1949-08-14",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5948,7 +5948,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1944/1944-0002/LawReformFrustratedContractsAct1944_1.pdf",
    "versions": [
     {
-     "from": "2016-08-04",
+     "from": "1944-06-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5965,7 +5965,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1946/1946-0002/1946-0002_3.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1946-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5982,7 +5982,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1946/1946-0003/LawReformContributoryNegligenceAct1946_1.pdf",
    "versions": [
     {
-     "from": "2019-07-14",
+     "from": "1946-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -5999,7 +5999,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1946/1946-0004/LocalGovernmentAct1946_4.pdf",
    "versions": [
     {
-     "from": "2021-05-06",
+     "from": "1946-12-17",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6016,7 +6016,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1947/1947-0002/1947-0002_3.pdf",
    "versions": [
     {
-     "from": "2024-04-20",
+     "from": "1948-04-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6033,7 +6033,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1947/1947-0003/1947-0003_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1948-04-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6050,11 +6050,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0001/1948-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1948-10-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 1,
+     "units": 0,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0001/1948-0001_1.pdf",
      "sha256": "3cb5bc37b299594cc91d37d7d071e772ecba2772e823a582802e23acd3a883fa"
     }
@@ -6067,7 +6067,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0003/ChurchAct1948_2.pdf",
    "versions": [
     {
-     "from": "2021-10-17",
+     "from": "1948-04-20",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6084,7 +6084,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0004/ExportationofHorsesAct1948_1.pdf",
    "versions": [
     {
-     "from": "2022-03-03",
+     "from": "1948-10-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6101,7 +6101,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0006/1948-0006_3.pdf",
    "versions": [
     {
-     "from": "2024-05-05",
+     "from": "1948-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6118,7 +6118,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1950/1950-0001/1950-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1950-04-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6135,7 +6135,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1951/1951-0003/1951-0003_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1951-05-12",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6152,7 +6152,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0001/1952-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1952-05-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6169,7 +6169,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0002/BailAct1952_2.pdf",
    "versions": [
     {
-     "from": "2019-09-17",
+     "from": "1952-07-07",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6186,7 +6186,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0006/1952-0006_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1952-04-08",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6203,7 +6203,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1953/1953-0001/1953-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1953-03-17",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6220,7 +6220,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1953/1953-0004/1953-0004_6.pdf",
    "versions": [
     {
-     "from": "2025-09-05",
+     "from": "1953-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6237,7 +6237,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0003/ConveyancingLeasesandTenanciesAct1954_2.pdf",
    "versions": [
     {
-     "from": "2022-02-03",
+     "from": "1955-02-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6254,7 +6254,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0005/1954-0005_2.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1954-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6271,7 +6271,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0006/1954-0006_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1954-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6288,7 +6288,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0007/1954-0007_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1954-10-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6305,7 +6305,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0008/1954-0008.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1955-02-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6322,7 +6322,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0009/1954-0009_1.pdf",
    "versions": [
     {
-     "from": "2025-01-16",
+     "from": "1954-03-16",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6339,7 +6339,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0010/RecoveryofRentAct1954_1.pdf",
    "versions": [
     {
-     "from": "2022-02-03",
+     "from": "1955-02-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6356,11 +6356,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0011/RegistrationofBusinessNamesAct1954_2.pdf",
    "versions": [
     {
-     "from": "2020-09-27",
+     "from": "1954-05-18",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 3,
+     "units": 2,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0011/RegistrationofBusinessNamesAct1954_2.pdf",
      "sha256": "4c827575d8e8e9ec058769b825e126a8038c49aede086f286e7b7f633b2d4c58"
     }
@@ -6373,11 +6373,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0012/1954-0012_1.pdf",
    "versions": [
     {
-     "from": "2024-05-05",
+     "from": "1955-02-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 19,
+     "units": 18,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0012/1954-0012_1.pdf",
      "sha256": "081f06f87e6526a656fdfac3bea02e10c48b95e43007c6996534ebef618ee12e"
     }
@@ -6390,7 +6390,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0002/1955-0002_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1955-04-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6407,7 +6407,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0003/1955-0003_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1956-02-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6424,7 +6424,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0005/HousingAct1955_4.pdf",
    "versions": [
     {
-     "from": "2022-02-03",
+     "from": "1955-06-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6441,7 +6441,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0009/1955-0009_2.pdf",
    "versions": [
     {
-     "from": "2025-05-07",
+     "from": "1955-06-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6458,7 +6458,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1956/1956-0002/LawReformEnforcementofContractsAct1956_1.pdf",
    "versions": [
     {
-     "from": "2018-04-17",
+     "from": "1956-06-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6475,7 +6475,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1956/1956-0003/1956-0003_2.pdf",
    "versions": [
     {
-     "from": "2025-07-25",
+     "from": "1956-03-20",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6492,7 +6492,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1958/1958-0002/FinanceAct1958_5.pdf",
    "versions": [
     {
-     "from": "2021-03-07",
+     "from": "1958-03-18",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6509,7 +6509,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1959/1959-0004/1959-0004_7.pdf",
    "versions": [
     {
-     "from": "2025-04-01",
+     "from": "1960-01-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6526,7 +6526,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1960/1960-0003/1960-0003_1.pdf",
    "versions": [
     {
-     "from": "2026-02-10",
+     "from": "1960-06-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6543,7 +6543,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1960/1960-0004/1960-0004_1.pdf",
    "versions": [
     {
-     "from": "2025-12-25",
+     "from": "1960-06-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6560,11 +6560,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0001/1961-0001_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1961-04-18",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 5,
+     "units": 3,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0001/1961-0001_2.pdf",
      "sha256": "460ca8b28db4bb95cc8a2ac8b81916ff50474cb4bdf224e1ec238915e7e3935c"
     }
@@ -6577,7 +6577,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0007/1961-0007_4.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1961-11-12",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6594,11 +6594,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0008/1961-0008_3.pdf",
    "versions": [
     {
-     "from": "2024-05-14",
+     "from": "1961-01-11",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 4,
+     "units": 3,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0008/1961-0008_3.pdf",
      "sha256": "b0464276124d21ec6ea4cba7cbcdd36f7e73e7283c4eade9c4ff87992e1f35f8"
     }
@@ -6611,7 +6611,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0009/1961-0009_3.pdf",
    "versions": [
     {
-     "from": "2024-07-15",
+     "from": "1961-05-16",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6628,11 +6628,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0010/1961-0010_3.pdf",
    "versions": [
     {
-     "from": "2024-11-30",
+     "from": "1961-05-16",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 38,
+     "units": 37,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0010/1961-0010_3.pdf",
      "sha256": "8937293d185407b0b1716d7aae086224003766ae8cf37de0dff9c9b55242d6de"
     }
@@ -6645,7 +6645,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0011/1961-0011.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1961-05-16",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6662,7 +6662,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1962/1962-0001/CharitiesAct1962_2.pdf",
    "versions": [
     {
-     "from": "2021-09-26",
+     "from": "1962-02-13",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6679,7 +6679,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0002/1963-0002.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1963-03-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6696,11 +6696,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0004/1963-0004_3.pdf",
    "versions": [
     {
-     "from": "2026-02-23",
+     "from": "1964-05-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 1,
+     "units": 0,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0004/1963-0004_3.pdf",
      "sha256": "4868ce2693f950f62c04b0c28c4c99f9c8be5b8bfefe2a5b6f3dcc97f6ceba91"
     }
@@ -6713,7 +6713,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0005/DestructiveImportedAnimalsAct1963_1.pdf",
    "versions": [
     {
-     "from": "2022-03-03",
+     "from": "1963-06-18",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6730,7 +6730,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0012/PinfoldsAct1963_1.pdf",
    "versions": [
     {
-     "from": "2022-03-03",
+     "from": "1963-10-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6747,7 +6747,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1965/1965-0001/1965-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1965-04-13",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6764,7 +6764,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0001/1966-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1966-07-05",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6781,7 +6781,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0003/1966-0003_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1966-05-17",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6798,7 +6798,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0005/1966-0005_9.pdf",
    "versions": [
     {
-     "from": "2024-04-20",
+     "from": "1966-10-18",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6815,7 +6815,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1967/1967-0001/1967-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1967-06-20",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6832,7 +6832,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1967/1967-0002/OnchanVillageDistrictBirchHillEstateAct1967_1.pdf",
    "versions": [
     {
-     "from": "2022-01-17",
+     "from": "1967-09-12",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6849,7 +6849,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0001/1968-0001_1.pdf",
    "versions": [
     {
-     "from": "2024-02-24",
+     "from": "1968-10-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6866,7 +6866,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0002/1968-0002_4.pdf",
    "versions": [
     {
-     "from": "2024-06-20",
+     "from": "1968-04-09",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6883,11 +6883,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0005/1968-0005_3.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1968-04-09",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 2,
+     "units": 1,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0005/1968-0005_3.pdf",
      "sha256": "bccdb9ec6a2d66178d6db207617b7b3359fe47586dc4a90011afa18d812f3c1c"
     }
@@ -6900,7 +6900,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0006/JudgmentsReciprocalEnforcementIsleofManAct1968_1.pdf",
    "versions": [
     {
-     "from": "2018-09-21",
+     "from": "1968-05-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6917,7 +6917,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0008/1968-0008_2.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1968-10-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6934,7 +6934,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0010/RidingEstablishmentsInspectionAct1968_1.pdf",
    "versions": [
     {
-     "from": "2022-03-03",
+     "from": "1968-06-18",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6951,11 +6951,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1969/1969-0001/1969-0001_2.pdf",
    "versions": [
     {
-     "from": "2025-01-21",
+     "from": "1969-10-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 18,
+     "units": 17,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1969/1969-0001/1969-0001_2.pdf",
      "sha256": "3cd26100db48e93ab3eb56ef6b6aef190717a6f470db86ea2728dfe74e90ef2d"
     }
@@ -6968,7 +6968,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1969/1969-0004/ChurchAct1969_4.pdf",
    "versions": [
     {
-     "from": "2021-05-06",
+     "from": "1969-07-08",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -6985,7 +6985,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0003/1970-0003_57.pdf",
    "versions": [
     {
-     "from": "2025-07-25",
+     "from": "1970-05-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7002,7 +7002,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0007/1970-0007_1.pdf",
    "versions": [
     {
-     "from": "2025-05-09",
+     "from": "1970-05-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7019,7 +7019,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0006/1971-0006_1.pdf",
    "versions": [
     {
-     "from": "2024-02-23",
+     "from": "1971-04-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7036,7 +7036,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0013/IsleofManConstitutionAct1971_1.pdf",
    "versions": [
     {
-     "from": "2022-01-21",
+     "from": "1971-07-06",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7053,7 +7053,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0018/1971-0018_2.pdf",
    "versions": [
     {
-     "from": "2025-05-08",
+     "from": "1971-10-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7070,7 +7070,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0020/1971-0020_2.pdf",
    "versions": [
     {
-     "from": "2025-05-07",
+     "from": "1971-10-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7087,11 +7087,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0026/1971-0026_4.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1972-04-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 5,
+     "units": 4,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0026/1971-0026_4.pdf",
      "sha256": "944ee23c42a8ea330d912f6ca76db716d0ecb4f5d3992f1ebbcf6204ff9c5cf1"
     }
@@ -7104,7 +7104,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1971/1971-0034/1971-0034_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1972-02-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7121,11 +7121,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0002/1973-0002_1.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1973-03-20",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 9,
+     "units": 8,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0002/1973-0002_1.pdf",
      "sha256": "33cf357b47d70a6d1791260d1d6829bcf78c36c2c9f5ea577cb8370826293f32"
     }
@@ -7138,7 +7138,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0009/1973-0009_3.pdf",
    "versions": [
     {
-     "from": "2024-07-12",
+     "from": "1973-05-16",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7155,7 +7155,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0011/1973-0011_1.pdf",
    "versions": [
     {
-     "from": "2025-04-27",
+     "from": "1973-06-19",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7172,11 +7172,11 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0018/1973-0018_3.pdf",
    "versions": [
     {
-     "from": "2026-01-02",
+     "from": "1974-01-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 3,
+     "units": 2,
      "source_url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0018/1973-0018_3.pdf",
      "sha256": "6c762805ab514e1496d758d281cc504e238dca61f36c94066d90ce7fd6749787"
     }
@@ -7189,7 +7189,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1974/1974-0006/IsleofManLoansAct1974_4.pdf",
    "versions": [
     {
-     "from": "2022-07-01",
+     "from": "1974-10-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7206,11 +7206,11 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1974/1974-0029/1974-0029_2.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1975-07-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 7,
+     "units": 3,
      "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1974/1974-0029/1974-0029_2.pdf",
      "sha256": "ab39b76822fec10a84f9baaa398da4ba70be3143264c6ee348d2cc1dad2f168b"
     }
@@ -7223,7 +7223,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1974/1974-0030/1974-0030_4.pdf",
    "versions": [
     {
-     "from": "2024-06-19",
+     "from": "1976-07-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7240,7 +7240,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0006/EstateAgentsAct1975_1.pdf",
    "versions": [
     {
-     "from": "2022-01-18",
+     "from": "1975-04-15",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7257,7 +7257,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0018/FirePrecautionsAct1975_1.pdf",
    "versions": [
     {
-     "from": "2022-10-01",
+     "from": "1975-10-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7274,7 +7274,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0019/1975-0019_3.pdf",
    "versions": [
     {
-     "from": "2024-08-16",
+     "from": "1975-10-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7291,7 +7291,7 @@
    "url": "https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0020/1975-0020_5.pdf",
    "versions": [
     {
-     "from": "2025-05-03",
+     "from": "1975-10-21",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -7308,7 +7308,7 @@
    "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0031/1975-0031_4.pdf",
    "versions": [
     {
-     "from": "2024-02-25",
+     "from": "1976-06-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,

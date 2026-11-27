@@ -1,6 +1,6 @@
 # Game Act 1882
 
-Game Act 1882 · 1 versions, from 2026-02-23 (latest in force: 2026-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1882/1882-0001/1882-0001_1.pdf>
+Game Act 1882 · 1 versions, from 1882-07-05 (latest in force: 1882-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1882/1882-0001/1882-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

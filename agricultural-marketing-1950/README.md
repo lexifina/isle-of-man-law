@@ -1,6 +1,6 @@
 # Agricultural Marketing Act 1950
 
-Agricultural Marketing Act 1950 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1950/1950-0001/1950-0001_1.pdf>
+Agricultural Marketing Act 1950 · 1 versions, from 1950-04-21 (latest in force: 1950-04-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1950/1950-0001/1950-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

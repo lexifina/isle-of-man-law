@@ -1,6 +1,6 @@
 # Registration of Deeds Act 1961
 
-Registration of Deeds Act 1961 · 1 versions, from 2024-07-15 (latest in force: 2024-07-15) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0009/1961-0009_3.pdf>
+Registration of Deeds Act 1961 · 1 versions, from 1961-05-16 (latest in force: 1961-05-16) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0009/1961-0009_3.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

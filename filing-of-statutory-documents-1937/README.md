@@ -1,6 +1,6 @@
 # Filing of Statutory Documents Act 1937
 
-Filing of Statutory Documents Act 1937 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1937/1937-0002/1937-0002_1.pdf>
+Filing of Statutory Documents Act 1937 · 1 versions, from 1937-03-02 (latest in force: 1937-03-02) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1937/1937-0002/1937-0002_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

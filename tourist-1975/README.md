@@ -1,6 +1,6 @@
 # Tourist Act 1975
 
-Tourist Act 1975 · 1 versions, from 2024-08-16 (latest in force: 2024-08-16) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0019/1975-0019_3.pdf>
+Tourist Act 1975 · 1 versions, from 1975-10-21 (latest in force: 1975-10-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0019/1975-0019_3.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

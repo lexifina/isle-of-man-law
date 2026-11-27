@@ -1,6 +1,6 @@
 # Game Act 1927
 
-Game Act 1927 · 1 versions, from 2025-05-08 (latest in force: 2025-05-08) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0001/1927-0001_2.pdf>
+Game Act 1927 · 1 versions, from 1927-10-27 (latest in force: 1927-10-27) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1927/1927-0001/1927-0001_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

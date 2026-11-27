@@ -1,6 +1,6 @@
 # Destructive Imported Animals Act 1963
 
-Destructive Imported Animals Act 1963 · 1 versions, from 2022-03-03 (latest in force: 2022-03-03) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0005/DestructiveImportedAnimalsAct1963_1.pdf>
+Destructive Imported Animals Act 1963 · 1 versions, from 1963-06-18 (latest in force: 1963-06-18) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0005/DestructiveImportedAnimalsAct1963_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

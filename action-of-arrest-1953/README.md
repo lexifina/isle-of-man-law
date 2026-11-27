@@ -1,6 +1,6 @@
 # Action of Arrest Act 1953
 
-Action of Arrest Act 1953 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1953/1953-0001/1953-0001_1.pdf>
+Action of Arrest Act 1953 · 1 versions, from 1953-03-17 (latest in force: 1953-03-17) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1953/1953-0001/1953-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

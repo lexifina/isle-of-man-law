@@ -1,6 +1,6 @@
 # Conveyancing (Leases and Tenancies) Act 1954
 
-Conveyancing (Leases and Tenancies) Act 1954 · 1 versions, from 2022-02-03 (latest in force: 2022-02-03) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0003/ConveyancingLeasesandTenanciesAct1954_2.pdf>
+Conveyancing (Leases and Tenancies) Act 1954 · 1 versions, from 1955-02-15 (latest in force: 1955-02-15) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0003/ConveyancingLeasesandTenanciesAct1954_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Isle of Man Loans Act 1974
 
-Isle of Man Loans Act 1974 · 1 versions, from 2022-07-01 (latest in force: 2022-07-01) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1974/1974-0006/IsleofManLoansAct1974_4.pdf>
+Isle of Man Loans Act 1974 · 1 versions, from 1974-10-01 (latest in force: 1974-10-01) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1974/1974-0006/IsleofManLoansAct1974_4.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Bankruptcy Procedure Act 1892
 
-Bankruptcy Procedure Act 1892 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0002/1892-0002_1.pdf>
+Bankruptcy Procedure Act 1892 · 1 versions, from 1893-01-05 (latest in force: 1893-01-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0002/1892-0002_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

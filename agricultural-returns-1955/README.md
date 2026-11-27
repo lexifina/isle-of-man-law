@@ -1,6 +1,6 @@
 # Agricultural Returns Act 1955
 
-Agricultural Returns Act 1955 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0003/1955-0003_1.pdf>
+Agricultural Returns Act 1955 · 1 versions, from 1956-02-21 (latest in force: 1956-02-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0003/1955-0003_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

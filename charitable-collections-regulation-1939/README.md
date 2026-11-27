@@ -1,6 +1,6 @@
 # Charitable Collections (Regulation) Act 1939
 
-Charitable Collections (Regulation) Act 1939 · 1 versions, from 2024-04-20 (latest in force: 2024-04-20) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1939/1939-0001/1939-0001_2.pdf>
+Charitable Collections (Regulation) Act 1939 · 1 versions, from 1939-10-31 (latest in force: 1939-10-31) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1939/1939-0001/1939-0001_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

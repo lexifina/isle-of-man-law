@@ -1,6 +1,6 @@
 # Local Government (Singing Rooms) Act 1928
 
-Local Government (Singing Rooms) Act 1928 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1928/1928-0005/1928-0005_1.pdf>
+Local Government (Singing Rooms) Act 1928 · 1 versions, from 1928-06-11 (latest in force: 1928-06-11) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1928/1928-0005/1928-0005_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

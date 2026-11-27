@@ -1,6 +1,6 @@
 # Music and Dancing Act 1961
 
-Music and Dancing Act 1961 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0007/1961-0007_4.pdf>
+Music and Dancing Act 1961 · 1 versions, from 1961-11-12 (latest in force: 1961-11-12) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0007/1961-0007_4.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

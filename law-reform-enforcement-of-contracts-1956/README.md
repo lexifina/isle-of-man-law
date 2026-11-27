@@ -1,6 +1,6 @@
 # Law Reform (Enforcement of Contracts) Act 1956
 
-Law Reform (Enforcement of Contracts) Act 1956 · 1 versions, from 2018-04-17 (latest in force: 2018-04-17) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1956/1956-0002/LawReformEnforcementofContractsAct1956_1.pdf>
+Law Reform (Enforcement of Contracts) Act 1956 · 1 versions, from 1956-06-19 (latest in force: 1956-06-19) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1956/1956-0002/LawReformEnforcementofContractsAct1956_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

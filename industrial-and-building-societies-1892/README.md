@@ -1,6 +1,6 @@
 # Industrial and Building Societies Act 1892
 
-Industrial and Building Societies Act 1892 · 1 versions, from 2022-04-20 (latest in force: 2022-04-20) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0006/IndustrialandBuildingSocietiesAct1892_3.pdf>
+Industrial and Building Societies Act 1892 · 1 versions, from 1892-07-05 (latest in force: 1892-07-05) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0006/IndustrialandBuildingSocietiesAct1892_3.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

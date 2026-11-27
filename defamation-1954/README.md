@@ -1,6 +1,6 @@
 # Defamation Act 1954
 
-Defamation Act 1954 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0005/1954-0005_2.pdf>
+Defamation Act 1954 · 1 versions, from 1954-07-05 (latest in force: 1954-07-05) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0005/1954-0005_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

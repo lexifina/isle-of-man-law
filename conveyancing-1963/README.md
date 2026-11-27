@@ -1,6 +1,6 @@
 # Conveyancing Act 1963
 
-Conveyancing Act 1963 · 1 versions, from 2025-01-21 (latest in force: 2025-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0002/1963-0002.pdf>
+Conveyancing Act 1963 · 1 versions, from 1963-03-19 (latest in force: 1963-03-19) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0002/1963-0002.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

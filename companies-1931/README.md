@@ -1,6 +1,6 @@
 # Companies Act 1931
 
-Companies Act 1931 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0002/1931-0002_12.pdf>
+Companies Act 1931 · 1 versions, from 1931-10-16 (latest in force: 1931-10-16) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0002/1931-0002_12.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

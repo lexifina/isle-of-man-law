@@ -1,6 +1,6 @@
 # Obscene Publications and Indecent Advertisements Act 1907
 
-Obscene Publications and Indecent Advertisements Act 1907 · 1 versions, from 2024-05-25 (latest in force: 2024-05-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1907/1907-0002/1907-0002_2.pdf>
+Obscene Publications and Indecent Advertisements Act 1907 · 1 versions, from 1907-07-06 (latest in force: 1907-07-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1907/1907-0002/1907-0002_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

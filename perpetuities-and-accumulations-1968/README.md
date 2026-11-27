@@ -1,6 +1,6 @@
 # Perpetuities and Accumulations Act 1968
 
-Perpetuities and Accumulations Act 1968 · 1 versions, from 2025-01-21 (latest in force: 2025-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0008/1968-0008_2.pdf>
+Perpetuities and Accumulations Act 1968 · 1 versions, from 1968-10-15 (latest in force: 1968-10-15) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0008/1968-0008_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

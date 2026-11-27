@@ -1,6 +1,6 @@
 # Trustee Act 1961
 
-Trustee Act 1961 · 1 versions, from 2024-11-30 (latest in force: 2024-11-30) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0010/1961-0010_3.pdf>
+Trustee Act 1961 · 1 versions, from 1961-05-16 (latest in force: 1961-05-16) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0010/1961-0010_3.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -41,4 +41,3 @@ Trustee Act 1961 · 1 versions, from 2024-11-30 (latest in force: 2024-11-30) ·
 | s 64 | [s-064.md](s-064.md) | 0 |  |
 | s 66 | [s-066.md](s-066.md) | 0 |  |
 | s 68 | [s-068.md](s-068.md) | 0 |  |
-| s 69 | [s-069.md](s-069.md) | 0 |  |

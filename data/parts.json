@@ -4,31 +4,31 @@
    "acts": [
     "criminal-code-1872"
    ],
-   "sha256": "2553312e778bff861dc8208db608ce88d4fd15f701a24923abeda3b836bdf858"
+   "sha256": "ad86668a124bc3e15efbe9d00003176f18d3e6dc0eedf01ea460d4d179a5cb18"
   },
   "11-criminal-justice-1963.json": {
    "acts": [
     "criminal-justice-1963"
    ],
-   "sha256": "38446fdc6a32e347cb3ea21d1aa887c35e1bf4319ce111d6ca7e19de71c092bc"
+   "sha256": "4507b0c305f7ff112c8ec6f678b4eee9625dcccac86505e6c9bfc02004bb221b"
   },
   "12-evidence-1871.json": {
    "acts": [
     "evidence-1871"
    ],
-   "sha256": "5f3a9385ae771e24d25696debecb62deb9b7b3145fe0de750a58f60d57d74a5a"
+   "sha256": "8b45b03c65e05d7510c7555d38474f58c9065e43020548ed023df735ade08bd7"
   },
   "13-companies-1931.json": {
    "acts": [
     "companies-1931"
    ],
-   "sha256": "03ee0c9b10ee23b68ec9a5175103c4543ad4f5b18fdb5dfd9fd3792cca6dd705"
+   "sha256": "0924036e308ad268877cfa76dd2a018f55c2f5302664f5ea7d9a9a18f5912535"
   },
   "14-constitution-1961.json": {
    "acts": [
     "constitution-1961"
    ],
-   "sha256": "baadf888dfc69558b4e3b6e403083bc3ef5feacf2f17af533fb4af77f88e1ac5"
+   "sha256": "bec8b3a0149f1dd0ed3957dfd1e0a67313ebdb01b4402f58984bb241055aacf9"
   },
   "20-acts-pre1976.json": {
    "acts": [
@@ -179,7 +179,7 @@
     "war-memorials-local-authorities-powers-1927",
     "wild-birds-protection-1932"
    ],
-   "sha256": "0f880b020c7672cc5b9cd373b3cc261323d4aaf8354e4e77c2de6a04ce3fa14a"
+   "sha256": "2860157f6940883fe9acd35182d83ddd97a7ad21ad4832e0fd6b3cab90fdcdf5"
   },
   "30-statutes-1860-1871.json": {
    "acts": [

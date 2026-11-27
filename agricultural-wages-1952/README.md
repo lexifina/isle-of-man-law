@@ -1,6 +1,6 @@
 # Agricultural Wages Act 1952
 
-Agricultural Wages Act 1952 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0001/1952-0001_2.pdf>
+Agricultural Wages Act 1952 · 1 versions, from 1952-05-21 (latest in force: 1952-05-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0001/1952-0001_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

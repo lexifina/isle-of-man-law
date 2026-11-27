@@ -1,6 +1,6 @@
 # Children and Young Persons Act 1966
 
-Children and Young Persons Act 1966 · 1 versions, from 2024-04-20 (latest in force: 2024-04-20) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0005/1966-0005_9.pdf>
+Children and Young Persons Act 1966 · 1 versions, from 1966-10-18 (latest in force: 1966-10-18) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0005/1966-0005_9.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

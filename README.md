@@ -9,7 +9,7 @@ The law of the Isle of Man as a git history: one file per section, one commit pe
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Isle of Man's national law, which global-law reads at `isle-of-man/national/acts/`.
 
-**What is in it now:** 1,198 sections of 151 Acts of Tynwald assented from 1704 to 1975 (among them the Evidence Act 1871, the Criminal Code 1872, the Companies Act 1931 and the Isle of Man Constitution Act 1961), each in one version, the official revised edition, and only the sections whose words are out of Crown copyright; 14 Acts of 1859 to 1871 as enacted, from Gill's printed Statutes of the Isle of Man (scan text, uncorrected); a catalogue of 859 Acts of Tynwald from 1645 to April 2026, by short title, citation and Royal Assent day only; and a few legal-system facts from Wikidata. [`catalogue/README.md`](catalogue/README.md) lists every catalogued Act, and each Act's `README.md` its sections.
+**What is in it now:** 1,139 sections of 149 Acts of Tynwald assented from 1704 to 1975 (among them the Evidence Act 1871, the Criminal Code 1872, the Companies Act 1931 and the Isle of Man Constitution Act 1961), each in one version, the official revised edition, and only the sections whose words are out of Crown copyright; 14 Acts of 1859 to 1871 as enacted, from Gill's printed Statutes of the Isle of Man (scan text, uncorrected); a catalogue of 855 Acts of Tynwald from 1645 to April 2026, by short title, citation and Royal Assent day only; and a few legal-system facts from Wikidata. [`catalogue/README.md`](catalogue/README.md) lists every catalogued Act, and each Act's `README.md` its sections.
 
 Each Act has its own folder, one file per section: `constitution-1961/s-006.md` is section 6 of the Isle of Man Constitution Act 1961 (AT 6 of 1961), the Speaker's right to abstain from voting in the Keys. A catalogue entry is `catalogue/at-<year>-<number>.md` (`catalogue/at-1991-008.md` is the Copyright Act 1991, AT 8 of 1991).
 
@@ -47,7 +47,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 Each commit is dated at noon, Europe/London, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-- for an Act's text, the day legislation.gov.im published the revised edition: the editions state no "as at" date, so each Act's one version is its "oldest version available" (the Constitution Act's is 21 January 2022); for the further Acts added on 26 November 2026, the day the Internet Archive captured that edition;
+- for an Act's text, the day the Act itself prints: its commencement day, otherwise its promulgation ("Passed") day, otherwise its Royal Assent day (`In-force-basis` says which). Only sections with no amendment note are kept, so their words are as enacted. These versions were first dated by the day the revised edition was published or captured; `Kind: correction` commits of 27 November 2026 re-date them, and the earlier commits keep their first `In-force:` day;
 - for an Act in `statutes-1860-1871/`, its promulgation day where the certificate printed after it is legible, otherwise its Royal Assent day (`In-force-basis: Royal Assent (promulgation day illegible in source OCR)`);
 - for a catalogue entry, the Act's Royal Assent day, not its commencement; days before 1752 are given as the list gives them, with no change of calendar;
 - git cannot store dates before 1970, so the 189 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
@@ -65,8 +65,8 @@ No section is yet credited to an act: each Act's text is credited to its publish
 ## What it does not show
 
 - **Changes over time.** Each Act has one version, its current revised edition; amendments and earlier texts are not recorded.
-- **Most of each Act.** Many sections are left out (275 of the first five Acts' 501): those changed by an instrument after 1975 or with an undated endnote, whose words may still be in copyright, and those showing fine amounts, which later Acts raised.
-- **Acts assented from 1976.** They are Crown copyright and are in the catalogue only. Pre-1976 Acts with no archived revised edition, or no section free of later amendment, are not here either.
+- **Most of each Act.** Many sections are left out (275 of the first five Acts' 501): those changed by an instrument after 1975 or with an undated endnote, whose words may still be in copyright, those with any amendment note, whose current words have no printed day, and those showing fine amounts, which later Acts raised.
+- **Acts assented from 1976.** They are Crown copyright and are in the catalogue only. Pre-1976 Acts with no archived revised edition, or no section free of amendment, are not here either.
 - **Clean text of the 1859-1871 Acts.** `statutes-1860-1871/` is the uncorrected OCR of a scanned 1888 edition and has misread letters; 30 of its 44 Acts are held (no legible day, or the end of the text not found), and volumes I (1417-1824) and II (1824-1859) are not in yet. To read any Act in full, go to [legislation.gov.im](https://legislation.gov.im/).
 - **Subsidiary legislation, case law and treaties.** None is here.
 - **A complete catalogue.** The Wikipedia list it partly comes from is incomplete, Acts without a full Royal Assent date are left out, and repeals and long titles are not recorded.
@@ -76,7 +76,7 @@ No section is yet credited to an act: each Act's text is credited to its publish
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [legislation.gov.im](https://legislation.gov.im/) (Isle of Man Government, Attorney General's Chambers) | Official revised editions of the Acts of Tynwald (PDF), read from Internet Archive copies | no, the current edition only | The text of the 151 pre-1976 Acts (the archived copies of the further 146 used); the citation and Royal Assent day of 548 catalogue entries, from each Act's front matter |
+| [legislation.gov.im](https://legislation.gov.im/) (Isle of Man Government, Attorney General's Chambers) | Official revised editions of the Acts of Tynwald (PDF), read from Internet Archive copies | no, the current edition only | The text of the 149 pre-1976 Acts (the archived copies of the further 144 used); the citation and Royal Assent day of 548 catalogue entries, from each Act's front matter |
 | [The Statutes of the Isle of Man, vol. III](https://archive.org/details/statutesisleman01mangoog) (ed. J. F. Gill, printed by authority, 1888) | Acts of 1859-1871 as enacted; Google Books scan on the Internet Archive, its text layer | no, as enacted | Secondary copy, uncorrected OCR; each commit says so in its `Source-status`, `Text-source` and `In-force-basis` trailers |
 | [List of acts of Tynwald](https://en.wikipedia.org/wiki/List_of_acts_of_Tynwald) (Wikipedia) | List of Acts | no | Short title, citation and Royal Assent day of the other entries, as facts; where both give a day, the official one is used |
 | [Wikidata](https://www.wikidata.org/wiki/Q9676) | Legal-system facts | as retrieved | CC0 |

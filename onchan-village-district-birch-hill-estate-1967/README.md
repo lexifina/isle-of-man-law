@@ -1,6 +1,6 @@
 # Onchan Village District (Birch Hill) Estate Act 1967
 
-Onchan Village District (Birch Hill) Estate Act 1967 · 1 versions, from 2022-01-17 (latest in force: 2022-01-17) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1967/1967-0002/OnchanVillageDistrictBirchHillEstateAct1967_1.pdf>
+Onchan Village District (Birch Hill) Estate Act 1967 · 1 versions, from 1967-09-12 (latest in force: 1967-09-12) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1967/1967-0002/OnchanVillageDistrictBirchHillEstateAct1967_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

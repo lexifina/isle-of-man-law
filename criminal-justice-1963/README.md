@@ -1,6 +1,6 @@
 # Criminal Justice Act 1963
 
-Criminal Justice Act 1963 · 1 versions, from 2021-05-06 (latest in force: 2021-05-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0003/CriminalJusticeAct1963_5.pdf>
+Criminal Justice Act 1963 · 1 versions, from 1963-10-15 (latest in force: 1963-10-15) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1963/1963-0003/CriminalJusticeAct1963_5.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Evidence Act 1871
 
-Evidence Act 1871 · 1 versions, from 2025-01-21 (latest in force: 2025-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1871/1871-0001/1871-0001_4.pdf>
+Evidence Act 1871 · 1 versions, from 1871-07-05 (latest in force: 1871-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1871/1871-0001/1871-0001_4.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Judgments (Reciprocal Enforcement) (Isle of Man) Act 1968
 
-Judgments (Reciprocal Enforcement) (Isle of Man) Act 1968 · 1 versions, from 2018-09-21 (latest in force: 2018-09-21) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0006/JudgmentsReciprocalEnforcementIsleofManAct1968_1.pdf>
+Judgments (Reciprocal Enforcement) (Isle of Man) Act 1968 · 1 versions, from 1968-05-21 (latest in force: 1968-05-21) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0006/JudgmentsReciprocalEnforcementIsleofManAct1968_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

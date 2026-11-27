@@ -1,6 +1,6 @@
 # Members of Tynwald (Disqualification) Act 1930
 
-Members of Tynwald (Disqualification) Act 1930 · 1 versions, from 2022-01-21 (latest in force: 2022-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1930/1930-0003/MembersofTynwaldDisqualificationAct1930_1.pdf>
+Members of Tynwald (Disqualification) Act 1930 · 1 versions, from 1930-06-04 (latest in force: 1930-06-04) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1930/1930-0003/MembersofTynwaldDisqualificationAct1930_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

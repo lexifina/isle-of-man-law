@@ -1,6 +1,6 @@
 # Land Drainage Act 1954
 
-Land Drainage Act 1954 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0007/1954-0007_1.pdf>
+Land Drainage Act 1954 · 1 versions, from 1954-10-19 (latest in force: 1954-10-19) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0007/1954-0007_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

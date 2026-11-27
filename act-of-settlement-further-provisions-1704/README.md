@@ -1,6 +1,6 @@
 # Act of Settlement (Further Provisions) Act 1704
 
-Act of Settlement (Further Provisions) Act 1704 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1704/1704-0002/1704-0002_1.pdf>
+Act of Settlement (Further Provisions) Act 1704 · 1 versions, from 1704-06-06 (latest in force: 1704-06-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1704/1704-0002/1704-0002_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

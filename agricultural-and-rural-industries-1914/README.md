@@ -1,6 +1,6 @@
 # Agricultural and Rural Industries Act 1914
 
-Agricultural and Rural Industries Act 1914 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1914/1914-0001/1914-0001_1.pdf>
+Agricultural and Rural Industries Act 1914 · 1 versions, from 1915-07-05 (latest in force: 1915-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1914/1914-0001/1914-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

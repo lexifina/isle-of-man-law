@@ -1,6 +1,6 @@
 # Libel and Slander Act 1892
 
-Libel and Slander Act 1892 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0007/1892-0007_2.pdf>
+Libel and Slander Act 1892 · 1 versions, from 1892-07-05 (latest in force: 1892-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0007/1892-0007_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

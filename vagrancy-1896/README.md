@@ -1,6 +1,6 @@
 # Vagrancy Act 1896
 
-Vagrancy Act 1896 · 1 versions, from 2024-04-22 (latest in force: 2024-04-22) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1896/1896-0002/1896-0002_2.pdf>
+Vagrancy Act 1896 · 1 versions, from 1896-07-06 (latest in force: 1896-07-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1896/1896-0002/1896-0002_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

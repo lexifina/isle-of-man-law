@@ -1,6 +1,6 @@
 # Privileges of Tynwald (Publications) Act 1973
 
-Privileges of Tynwald (Publications) Act 1973 · 1 versions, from 2025-04-27 (latest in force: 2025-04-27) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0011/1973-0011_1.pdf>
+Privileges of Tynwald (Publications) Act 1973 · 1 versions, from 1973-06-19 (latest in force: 1973-06-19) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0011/1973-0011_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

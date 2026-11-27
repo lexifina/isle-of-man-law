@@ -1,6 +1,6 @@
 # Evidence Act 1965
 
-Evidence Act 1965 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1965/1965-0001/1965-0001_1.pdf>
+Evidence Act 1965 · 1 versions, from 1965-04-13 (latest in force: 1965-04-13) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1965/1965-0001/1965-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

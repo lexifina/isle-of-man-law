@@ -1,6 +1,6 @@
 # Protection of Birds Act 1955
 
-Protection of Birds Act 1955 · 1 versions, from 2025-05-07 (latest in force: 2025-05-07) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0009/1955-0009_2.pdf>
+Protection of Birds Act 1955 · 1 versions, from 1955-06-21 (latest in force: 1955-06-21) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0009/1955-0009_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

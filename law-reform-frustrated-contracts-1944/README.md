@@ -1,6 +1,6 @@
 # Law Reform (Frustrated Contracts) Act 1944
 
-Law Reform (Frustrated Contracts) Act 1944 · 1 versions, from 2016-08-04 (latest in force: 2016-08-04) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1944/1944-0002/LawReformFrustratedContractsAct1944_1.pdf>
+Law Reform (Frustrated Contracts) Act 1944 · 1 versions, from 1944-06-06 (latest in force: 1944-06-06) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1944/1944-0002/LawReformFrustratedContractsAct1944_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Recovery of Rent Act 1954
 
-Recovery of Rent Act 1954 · 1 versions, from 2022-02-03 (latest in force: 2022-02-03) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0010/RecoveryofRentAct1954_1.pdf>
+Recovery of Rent Act 1954 · 1 versions, from 1955-02-15 (latest in force: 1955-02-15) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0010/RecoveryofRentAct1954_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

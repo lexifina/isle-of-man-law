@@ -1,6 +1,6 @@
 # National Assistance (Isle of Man) Act 1951
 
-National Assistance (Isle of Man) Act 1951 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1951/1951-0003/1951-0003_2.pdf>
+National Assistance (Isle of Man) Act 1951 · 1 versions, from 1951-05-12 (latest in force: 1951-05-12) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1951/1951-0003/1951-0003_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

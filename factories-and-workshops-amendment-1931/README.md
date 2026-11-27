@@ -1,6 +1,6 @@
 # Factories and Workshops (Amendment) Act 1931
 
-Factories and Workshops (Amendment) Act 1931 · 1 versions, from 2022-03-19 (latest in force: 2022-03-19) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0003/FactoriesandWorkshopsAmendmentAct1931_1.pdf>
+Factories and Workshops (Amendment) Act 1931 · 1 versions, from 1931-07-06 (latest in force: 1931-07-06) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0003/FactoriesandWorkshopsAmendmentAct1931_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

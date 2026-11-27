@@ -1,6 +1,6 @@
 # Manx Museum and National Trust Act 1959
 
-Manx Museum and National Trust Act 1959 · 1 versions, from 2025-04-01 (latest in force: 2025-04-01) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1959/1959-0004/1959-0004_7.pdf>
+Manx Museum and National Trust Act 1959 · 1 versions, from 1960-01-19 (latest in force: 1960-01-19) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1959/1959-0004/1959-0004_7.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

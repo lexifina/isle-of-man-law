@@ -1,6 +1,6 @@
 # Agricultural Credits Act 1924
 
-Agricultural Credits Act 1924 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1924/1924-0001/1924-0001_1.pdf>
+Agricultural Credits Act 1924 · 1 versions, from 1924-10-07 (latest in force: 1924-10-07) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1924/1924-0001/1924-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

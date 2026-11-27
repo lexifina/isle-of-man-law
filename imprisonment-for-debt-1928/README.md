@@ -1,6 +1,6 @@
 # Imprisonment for Debt Act 1928
 
-Imprisonment for Debt Act 1928 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1928/1928-0003/1928-0003_1.pdf>
+Imprisonment for Debt Act 1928 · 1 versions, from 1928-06-11 (latest in force: 1928-06-11) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1928/1928-0003/1928-0003_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

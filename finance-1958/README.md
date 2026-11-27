@@ -1,6 +1,6 @@
 # Finance Act 1958
 
-Finance Act 1958 · 1 versions, from 2021-03-07 (latest in force: 2021-03-07) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1958/1958-0002/FinanceAct1958_5.pdf>
+Finance Act 1958 · 1 versions, from 1958-03-18 (latest in force: 1958-03-18) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1958/1958-0002/FinanceAct1958_5.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Criminal Code 1872
 
-Criminal Code 1872 · 1 versions, from 2024-08-14 (latest in force: 2024-08-14) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1872/1872-0001/1872-0001_5.pdf>
+Criminal Code 1872 · 1 versions, from 1872-07-05 (latest in force: 1872-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1872/1872-0001/1872-0001_5.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

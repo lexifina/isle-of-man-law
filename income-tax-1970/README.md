@@ -1,6 +1,6 @@
 # Income Tax Act 1970
 
-Income Tax Act 1970 · 1 versions, from 2025-07-25 (latest in force: 2025-07-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0003/1970-0003_57.pdf>
+Income Tax Act 1970 · 1 versions, from 1970-05-19 (latest in force: 1970-05-19) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0003/1970-0003_57.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

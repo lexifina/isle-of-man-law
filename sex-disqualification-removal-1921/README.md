@@ -1,6 +1,6 @@
 # Sex Disqualification (Removal) Act 1921
 
-Sex Disqualification (Removal) Act 1921 · 1 versions, from 2025-05-08 (latest in force: 2025-05-08) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1921/1921-0005/1921-0005_1.pdf>
+Sex Disqualification (Removal) Act 1921 · 1 versions, from 1921-04-12 (latest in force: 1921-04-12) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1921/1921-0005/1921-0005_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

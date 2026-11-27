@@ -1,6 +1,6 @@
 # Partition Act 1931
 
-Partition Act 1931 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0007/1931-0007.pdf>
+Partition Act 1931 · 1 versions, from 1931-06-09 (latest in force: 1931-06-09) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1931/1931-0007/1931-0007.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

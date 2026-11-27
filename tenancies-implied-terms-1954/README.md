@@ -1,6 +1,6 @@
 # Tenancies (Implied Terms) Act 1954
 
-Tenancies (Implied Terms) Act 1954 · 1 versions, from 2024-05-05 (latest in force: 2024-05-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0012/1954-0012_1.pdf>
+Tenancies (Implied Terms) Act 1954 · 1 versions, from 1955-02-15 (latest in force: 1955-02-15) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0012/1954-0012_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,4 +22,3 @@ Tenancies (Implied Terms) Act 1954 · 1 versions, from 2024-05-05 (latest in for
 | s 18 | [s-018.md](s-018.md) | 0 |  |
 | s 19 | [s-019.md](s-019.md) | 0 |  |
 | s 21 | [s-021.md](s-021.md) | 0 |  |
-| s 23 | [s-023.md](s-023.md) | 0 |  |

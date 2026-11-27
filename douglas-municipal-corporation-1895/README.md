@@ -1,6 +1,6 @@
 # Douglas Municipal Corporation Act 1895
 
-Douglas Municipal Corporation Act 1895 · 1 versions, from 2021-07-25 (latest in force: 2021-07-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1895/1895-0003/DouglasMunicipalCorporationAct1895_3.pdf>
+Douglas Municipal Corporation Act 1895 · 1 versions, from 1896-01-07 (latest in force: 1896-01-07) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1895/1895-0003/DouglasMunicipalCorporationAct1895_3.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

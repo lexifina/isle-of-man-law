@@ -1,6 +1,6 @@
 # Local Government Act 1946
 
-Local Government Act 1946 · 1 versions, from 2021-05-06 (latest in force: 2021-05-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1946/1946-0004/LocalGovernmentAct1946_4.pdf>
+Local Government Act 1946 · 1 versions, from 1946-12-17 (latest in force: 1946-12-17) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1946/1946-0004/LocalGovernmentAct1946_4.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Agricultural Marketing Act 1934
 
-Agricultural Marketing Act 1934 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0001/1934-0001_2.pdf>
+Agricultural Marketing Act 1934 · 1 versions, from 1934-09-14 (latest in force: 1934-09-14) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1934/1934-0001/1934-0001_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

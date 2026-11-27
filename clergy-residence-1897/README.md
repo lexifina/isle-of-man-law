@@ -1,6 +1,6 @@
 # Clergy Residence Act 1897
 
-Clergy Residence Act 1897 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1897/1897-0001/1897-0001_2.pdf>
+Clergy Residence Act 1897 · 1 versions, from 1897-07-05 (latest in force: 1897-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1897/1897-0001/1897-0001_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

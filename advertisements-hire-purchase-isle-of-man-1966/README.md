@@ -1,6 +1,6 @@
 # Advertisements (Hire-Purchase) (Isle of Man) Act 1966
 
-Advertisements (Hire-Purchase) (Isle of Man) Act 1966 · 1 versions, from 2024-02-23 (latest in force: 2024-02-23) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0001/1966-0001_1.pdf>
+Advertisements (Hire-Purchase) (Isle of Man) Act 1966 · 1 versions, from 1966-07-05 (latest in force: 1966-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1966/1966-0001/1966-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

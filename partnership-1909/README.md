@@ -1,6 +1,6 @@
 # Partnership Act 1909
 
-Partnership Act 1909 · 1 versions, from 2021-09-20 (latest in force: 2021-09-20) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1909/1909-0003/PartnershipAct1909_10.pdf>
+Partnership Act 1909 · 1 versions, from 1909-07-05 (latest in force: 1909-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1909/1909-0003/PartnershipAct1909_10.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -36,7 +36,6 @@ Partnership Act 1909 · 1 versions, from 2021-09-20 (latest in force: 2021-09-20
 | s 33 | [s-033.md](s-033.md) | 0 |  |
 | s 34 | [s-034.md](s-034.md) | 0 |  |
 | s 36 | [s-036.md](s-036.md) | 0 |  |
-| s 37 | [s-037.md](s-037.md) | 0 |  |
 | s 38 | [s-038.md](s-038.md) | 0 |  |
 | s 39 | [s-039.md](s-039.md) | 0 |  |
 | s 40 | [s-040.md](s-040.md) | 0 |  |

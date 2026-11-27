@@ -1,6 +1,6 @@
 # Pool Betting (Isle of Man) Act 1970
 
-Pool Betting (Isle of Man) Act 1970 · 1 versions, from 2025-05-09 (latest in force: 2025-05-09) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0007/1970-0007_1.pdf>
+Pool Betting (Isle of Man) Act 1970 · 1 versions, from 1970-05-19 (latest in force: 1970-05-19) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0007/1970-0007_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

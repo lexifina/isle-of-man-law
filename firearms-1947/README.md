@@ -1,6 +1,6 @@
 # Firearms Act 1947
 
-Firearms Act 1947 · 1 versions, from 2024-04-20 (latest in force: 2024-04-20) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1947/1947-0002/1947-0002_3.pdf>
+Firearms Act 1947 · 1 versions, from 1948-04-01 (latest in force: 1948-04-01) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1947/1947-0002/1947-0002_3.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

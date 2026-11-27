@@ -1,6 +1,6 @@
 # Church Act 1948
 
-Church Act 1948 · 1 versions, from 2021-10-17 (latest in force: 2021-10-17) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0003/ChurchAct1948_2.pdf>
+Church Act 1948 · 1 versions, from 1948-04-20 (latest in force: 1948-04-20) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0003/ChurchAct1948_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

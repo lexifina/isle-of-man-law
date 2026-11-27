@@ -1,6 +1,6 @@
 # Fire Precautions Act 1975
 
-Fire Precautions Act 1975 · 1 versions, from 2022-10-01 (latest in force: 2022-10-01) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0018/FirePrecautionsAct1975_1.pdf>
+Fire Precautions Act 1975 · 1 versions, from 1975-10-21 (latest in force: 1975-10-21) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0018/FirePrecautionsAct1975_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

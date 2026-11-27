@@ -1,6 +1,6 @@
 # Housing Act 1955
 
-Housing Act 1955 · 1 versions, from 2022-02-03 (latest in force: 2022-02-03) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0005/HousingAct1955_4.pdf>
+Housing Act 1955 · 1 versions, from 1955-06-21 (latest in force: 1955-06-21) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1955/1955-0005/HousingAct1955_4.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

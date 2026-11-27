@@ -1,6 +1,6 @@
 # Registration of Business Names Act 1918
 
-Registration of Business Names Act 1918 · 1 versions, from 2025-01-21 (latest in force: 2025-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1918/1918-0001/1918-0001_6.pdf>
+Registration of Business Names Act 1918 · 1 versions, from 1918-11-26 (latest in force: 1918-11-26) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1918/1918-0001/1918-0001_6.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

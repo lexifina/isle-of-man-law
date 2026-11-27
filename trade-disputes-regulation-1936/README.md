@@ -1,6 +1,6 @@
 # Trade Disputes (Regulation) Act 1936
 
-Trade Disputes (Regulation) Act 1936 · 1 versions, from 2014-07-17 (latest in force: 2014-07-17) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1936/1936-0009/TradeDisputesRegulationAct1936_1.pdf>
+Trade Disputes (Regulation) Act 1936 · 1 versions, from 1936-06-09 (latest in force: 1936-06-09) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1936/1936-0009/TradeDisputesRegulationAct1936_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

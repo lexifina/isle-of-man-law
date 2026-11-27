@@ -1,6 +1,6 @@
 # Gregorian Calendar Act 1753
 
-Gregorian Calendar Act 1753 · 1 versions, from 2022-10-13 (latest in force: 2022-10-13) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1753/1753-0001/GregorianCalendarAct1753_1.pdf>
+Gregorian Calendar Act 1753 · 1 versions, from 1753-03-31 (latest in force: 1753-03-31) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1753/1753-0001/GregorianCalendarAct1753_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

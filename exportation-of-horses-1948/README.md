@@ -1,6 +1,6 @@
 # Exportation of Horses Act 1948
 
-Exportation of Horses Act 1948 · 1 versions, from 2022-03-03 (latest in force: 2022-03-03) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0004/ExportationofHorsesAct1948_1.pdf>
+Exportation of Horses Act 1948 · 1 versions, from 1948-10-19 (latest in force: 1948-10-19) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1948/1948-0004/ExportationofHorsesAct1948_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

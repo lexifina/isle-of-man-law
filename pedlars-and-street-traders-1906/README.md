@@ -1,6 +1,6 @@
 # Pedlars and Street Traders Act 1906
 
-Pedlars and Street Traders Act 1906 · 1 versions, from 2025-04-02 (latest in force: 2025-04-02) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1906/1906-0001/1906-0001_2.pdf>
+Pedlars and Street Traders Act 1906 · 1 versions, from 1906-07-05 (latest in force: 1906-07-05) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1906/1906-0001/1906-0001_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

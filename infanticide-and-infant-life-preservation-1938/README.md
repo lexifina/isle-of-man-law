@@ -1,6 +1,6 @@
 # Infanticide and Infant Life (Preservation) Act 1938
 
-Infanticide and Infant Life (Preservation) Act 1938 · 1 versions, from 2019-07-12 (latest in force: 2019-07-12) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1938/1938-0003/InfanticideandInfantLifePreservationAct1938_1.pdf>
+Infanticide and Infant Life (Preservation) Act 1938 · 1 versions, from 1938-05-03 (latest in force: 1938-05-03) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1938/1938-0003/InfanticideandInfantLifePreservationAct1938_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Prevention of Damage by Agricultural Pests Act 1956
 
-Prevention of Damage by Agricultural Pests Act 1956 · 1 versions, from 2025-07-25 (latest in force: 2025-07-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1956/1956-0003/1956-0003_2.pdf>
+Prevention of Damage by Agricultural Pests Act 1956 · 1 versions, from 1956-03-20 (latest in force: 1956-03-20) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1956/1956-0003/1956-0003_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

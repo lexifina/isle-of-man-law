@@ -1,6 +1,6 @@
 # Tynwald Proceedings Act 1876
 
-Tynwald Proceedings Act 1876 · 1 versions, from 2025-04-27 (latest in force: 2025-04-27) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1876/1876-0004/1876-0004_2.pdf>
+Tynwald Proceedings Act 1876 · 1 versions, from 1877-07-05 (latest in force: 1877-07-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1876/1876-0004/1876-0004_2.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

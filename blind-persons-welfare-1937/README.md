@@ -1,6 +1,6 @@
 # Blind Persons Welfare Act 1937
 
-Blind Persons Welfare Act 1937 · 1 versions, from 2022-10-11 (latest in force: 2022-10-11) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1937/1937-0001/BlindPersonsWelfareAct1937_1.pdf>
+Blind Persons Welfare Act 1937 · 1 versions, from 1937-07-05 (latest in force: 1937-07-05) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1937/1937-0001/BlindPersonsWelfareAct1937_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

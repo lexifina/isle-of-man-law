@@ -1,6 +1,6 @@
 # Fertilisers and Feeding Stuffs Act 1975
 
-Fertilisers and Feeding Stuffs Act 1975 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0031/1975-0031_4.pdf>
+Fertilisers and Feeding Stuffs Act 1975 · 1 versions, from 1976-06-01 (latest in force: 1976-06-01) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0031/1975-0031_4.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

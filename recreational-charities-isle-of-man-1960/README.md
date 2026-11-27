@@ -1,6 +1,6 @@
 # Recreational Charities (Isle of Man) Act 1960
 
-Recreational Charities (Isle of Man) Act 1960 · 1 versions, from 2026-02-10 (latest in force: 2026-02-10) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1960/1960-0003/1960-0003_1.pdf>
+Recreational Charities (Isle of Man) Act 1960 · 1 versions, from 1960-06-21 (latest in force: 1960-06-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1960/1960-0003/1960-0003_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

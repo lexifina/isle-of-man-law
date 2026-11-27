@@ -1,6 +1,6 @@
 # Isle of Man Constitution Act 1961
 
-Isle of Man Constitution Act 1961 · 1 versions, from 2022-01-21 (latest in force: 2022-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0006/IsleofManConstitutionAct1961_1.pdf>
+Isle of Man Constitution Act 1961 · 1 versions, from 1962-01-13 (latest in force: 1962-01-13) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1961/1961-0006/IsleofManConstitutionAct1961_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

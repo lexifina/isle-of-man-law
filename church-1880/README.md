@@ -1,6 +1,6 @@
 # Church Act 1880
 
-Church Act 1880 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1880/1880-0001/1880-0001_1.pdf>
+Church Act 1880 · 1 versions, from 1880-07-31 (latest in force: 1880-07-31) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1880/1880-0001/1880-0001_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

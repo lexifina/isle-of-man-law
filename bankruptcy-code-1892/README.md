@@ -1,6 +1,6 @@
 # Bankruptcy Code 1892
 
-Bankruptcy Code 1892 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0001/1892-0001_3.pdf>
+Bankruptcy Code 1892 · 1 versions, from 1893-01-05 (latest in force: 1893-01-05) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1892/1892-0001/1892-0001_3.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,13 +10,10 @@ Bankruptcy Code 1892 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02
 | s 7 | [s-007.md](s-007.md) | 0 |  |
 | s 8 | [s-008.md](s-008.md) | 0 |  |
 | s 9 | [s-009.md](s-009.md) | 0 |  |
-| s 10 | [s-010.md](s-010.md) | 0 |  |
-| s 11 | [s-011.md](s-011.md) | 0 |  |
 | s 14 | [s-014.md](s-014.md) | 0 |  |
 | s 19 | [s-019.md](s-019.md) | 0 |  |
 | s 21 | [s-021.md](s-021.md) | 0 |  |
 | s 22 | [s-022.md](s-022.md) | 0 |  |
-| s 23 | [s-023.md](s-023.md) | 0 |  |
 | s 24 | [s-024.md](s-024.md) | 0 |  |
 | s 25 | [s-025.md](s-025.md) | 0 |  |
 | s 26 | [s-026.md](s-026.md) | 0 |  |

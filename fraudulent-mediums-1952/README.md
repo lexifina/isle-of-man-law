@@ -1,6 +1,6 @@
 # Fraudulent Mediums Act 1952
 
-Fraudulent Mediums Act 1952 · 1 versions, from 2024-02-25 (latest in force: 2024-02-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0006/1952-0006_1.pdf>
+Fraudulent Mediums Act 1952 · 1 versions, from 1952-04-08 (latest in force: 1952-04-08) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1952/1952-0006/1952-0006_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

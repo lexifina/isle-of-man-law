@@ -1,6 +1,6 @@
 # Summary Jurisdiction Act 1960
 
-Summary Jurisdiction Act 1960 · 1 versions, from 2025-12-25 (latest in force: 2025-12-25) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1960/1960-0004/1960-0004_1.pdf>
+Summary Jurisdiction Act 1960 · 1 versions, from 1960-06-21 (latest in force: 1960-06-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1960/1960-0004/1960-0004_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

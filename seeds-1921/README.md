@@ -1,6 +1,6 @@
 # Seeds Act 1921
 
-Seeds Act 1921 · 1 versions, from 2025-05-09 (latest in force: 2025-05-09) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1921/1921-0004/1921-0004_1.pdf>
+Seeds Act 1921 · 1 versions, from 1921-08-01 (latest in force: 1921-08-01) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1921/1921-0004/1921-0004_1.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

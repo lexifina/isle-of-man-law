@@ -1,6 +1,6 @@
 # Rating and Valuation Act 1953
 
-Rating and Valuation Act 1953 · 1 versions, from 2025-09-05 (latest in force: 2025-09-05) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1953/1953-0004/1953-0004_6.pdf>
+Rating and Valuation Act 1953 · 1 versions, from 1953-07-06 (latest in force: 1953-07-06) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1953/1953-0004/1953-0004_6.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Bankers' Books Evidence Act 1935
 
-Bankers' Books Evidence Act 1935 · 1 versions, from 2025-01-21 (latest in force: 2025-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1935/1935-0001/1935-0001.pdf>
+Bankers' Books Evidence Act 1935 · 1 versions, from 1935-06-11 (latest in force: 1935-06-11) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1935/1935-0001/1935-0001.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Employment Agencies Act 1975
 
-Employment Agencies Act 1975 · 1 versions, from 2025-05-03 (latest in force: 2025-05-03) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0020/1975-0020_5.pdf>
+Employment Agencies Act 1975 · 1 versions, from 1975-10-21 (latest in force: 1975-10-21) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1975/1975-0020/1975-0020_5.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

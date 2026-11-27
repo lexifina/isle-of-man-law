@@ -1,6 +1,6 @@
 # Bills of Exchange Act 1883
 
-Bills of Exchange Act 1883 · 1 versions, from 2026-01-22 (latest in force: 2026-01-22) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0001/1883-0001.pdf>
+Bills of Exchange Act 1883 · 1 versions, from 1884-07-05 (latest in force: 1884-07-05) · <https://www.legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0001/1883-0001.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

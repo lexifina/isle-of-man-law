@@ -1,6 +1,6 @@
 # Landlord and Tenant Act 1954
 
-Landlord and Tenant Act 1954 · 1 versions, from 2025-01-21 (latest in force: 2025-01-21) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0008/1954-0008.pdf>
+Landlord and Tenant Act 1954 · 1 versions, from 1955-02-15 (latest in force: 1955-02-15) · <https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1954/1954-0008/1954-0008.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
