@@ -1,6 +1,6 @@
 # How this repository was made (Isle of Man)
 
-This file is written by the build on 2026-11-26, the day the source data was retrieved.
+This file is written by the build on 2026-11-27, the day the source data was retrieved.
 
 ## Sources
 
@@ -38,6 +38,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `game-1882` | Game Act 1882 | 1 | 2026-02-23 to 2026-02-23 |
 | `bills-of-exchange-1883` | Bills of Exchange Act 1883 | 1 | 2026-01-22 to 2026-01-22 |
 | `explosive-substances-1883` | Explosive Substances Act 1883 | 1 | 2022-12-15 to 2022-12-15 |
+| `statutory-time-et-cetera-1883` | Statutory Time et cetera Act 1883 | 1 | 2026-07-27 to 2026-07-27 |
 | `judgments-enforcement-1886` | Judgments Enforcement Act 1886 | 1 | 2025-12-06 to 2025-12-06 |
 | `bankruptcy-code-1892` | Bankruptcy Code 1892 | 1 | 2026-01-02 to 2026-01-02 |
 | `bankruptcy-procedure-1892` | Bankruptcy Procedure Act 1892 | 1 | 2026-01-02 to 2026-01-02 |
@@ -172,21 +173,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `fertilisers-and-feeding-stuffs-1975` | Fertilisers and Feeding Stuffs Act 1975 | 1 | 2024-02-25 to 2024-02-25 |
 | `statutes-1860-1871` | Statutes of the Isle of Man, vol. III (1860-1871), ed. J. F. Gill (Douglas, 1888) | 13 | 1859-07-06 to 1871-05-16 |
 
-The build made 690 commits:
+The build made 691 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 152 | baseline texts where the record starts |
+| 153 | baseline texts where the record starts |
 | 538 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-26.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-27.
 - 203 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 689 laws in the record.
-- 1231 tags.
+- 690 laws in the record.
+- 1232 tags.
 
 ## Dates
 
@@ -198,7 +199,7 @@ When a law gives no date of its own, the default rule applies: Catalogue entries
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b74ffe6184bebd88b53aac0c5197ef628d149b6f1d0a07a0191b2ec6b0f54a0c` (3213294 bytes).
+- Corpus: sha256 `c40167fb40e0c5dafa9a38517e9b92c407654ff4bc39a2c503f6ae631a3dec0d` (3200066 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -221,7 +222,7 @@ No second build of this corpus has been compared yet.
 - Evidence Act 1871: one version, the official revised edition as published on 2025-01-21 (the PDF states no 'as at' date, so it is dated by the day that copy was published); only provisions out of Crown copyright (Copyright Act 1991 s 157(2)) and with no endnote naming an instrument after 1975 are kept (24 kept, 9 left out).
 - Companies Act 1931: one version, the official revised edition as published on 2026-01-02 (the PDF states no 'as at' date, so it is dated by the day that copy was published); only provisions out of Crown copyright (Copyright Act 1991 s 157(2)) and with no endnote naming an instrument after 1975 are kept (153 kept, 166 left out).
 - Isle of Man Constitution Act 1961: one version, the official revised edition as published on 2022-01-21 (the PDF states no 'as at' date, so it is dated by the day that copy was published); only provisions out of Crown copyright (Copyright Act 1991 s 157(2)) and with no endnote naming an instrument after 1975 are kept (3 kept, 4 left out).
-- Acts of Tynwald assented in 1975 or earlier, beyond the first five: the newest archived revised edition of each, read from the Internet Archive, under the same copyright filter as the first five.
+- Acts of Tynwald assented in 1975 or earlier, beyond the first five: the newest archived revised edition of each, read from the Internet Archive (approved 2026-11-26), under the same copyright filter as the first five.
 - Act of Settlement (Further Provisions) Act 1704: one version, the official revised edition as captured on 2024-02-23 (Internet Archive copy; the PDF states no 'as at' date); 6 sections kept, 1 left out.
 - Trespass Act 1705: one version, the official revised edition as captured on 2024-06-05 (Internet Archive copy; the PDF states no 'as at' date); 2 sections kept, 0 left out.
 - Gregorian Calendar Act 1753: one version, the official revised edition as captured on 2022-10-13 (Internet Archive copy; the PDF states no 'as at' date); 11 sections kept, 0 left out.
@@ -235,6 +236,7 @@ No second build of this corpus has been compared yet.
 - Game Act 1882: one version, the official revised edition as captured on 2026-02-23 (Internet Archive copy; the PDF states no 'as at' date); 9 sections kept, 24 left out.
 - Bills of Exchange Act 1883: one version, the official revised edition as captured on 2026-01-22 (Internet Archive copy; the PDF states no 'as at' date); 86 sections kept, 12 left out.
 - Explosive Substances Act 1883: one version, the official revised edition as captured on 2022-12-15 (Internet Archive copy; the PDF states no 'as at' date); 10 sections kept, 3 left out.
+- Statutory Time et cetera Act 1883: one version, the official revised edition as captured on 2026-07-27 (Internet Archive copy; the PDF states no 'as at' date); 3 sections kept, 0 left out.
 - Judgments Enforcement Act 1886: one version, the official revised edition as captured on 2025-12-06 (Internet Archive copy; the PDF states no 'as at' date); 5 sections kept, 0 left out.
 - Bankruptcy Code 1892: one version, the official revised edition as captured on 2026-01-02 (Internet Archive copy; the PDF states no 'as at' date); 73 sections kept, 18 left out.
 - Bankruptcy Procedure Act 1892: one version, the official revised edition as captured on 2026-01-02 (Internet Archive copy; the PDF states no 'as at' date); 8 sections kept, 7 left out.
@@ -368,8 +370,8 @@ No second build of this corpus has been compared yet.
 - Employment Agencies Act 1975: one version, the official revised edition as captured on 2025-05-03 (Internet Archive copy; the PDF states no 'as at' date); 2 sections kept, 13 left out.
 - Fertilisers and Feeding Stuffs Act 1975: one version, the official revised edition as captured on 2024-02-25 (Internet Archive copy; the PDF states no 'as at' date); 5 sections kept, 21 left out.
 - Not built: 1586-0001: unreadable PDF (StopIteration); 1704-0001: Royal Assent None not shown as 1975 or earlier; 1736-0002 Fraudulent Assignments Act 1736: no section free of post-1975 amendment (0 sections); 1820-0001 Debtors Act 1820: no section free of post-1975 amendment (1 sections); 1839-0001 St Jude's Chapel Act 1839: no section free of post-1975 amendment (0 sections); 1930-0002 The Employment of Women, Young Persons, and Children Act 1930: no section free of post-1975 amendment (5 sections); 1961-0002 Companies Act 1961: no section free of post-1975 amendment (4 sections); 1967-0009: Royal Assent None not shown as 1975 or earlier; 1970-0001 Betting Act 1970: no section free of post-1975 amendment (12 sections); 1973-0014 European Communities (Isle of Man) Act 1973: no section free of post-1975 amendment (12 sections); 1974-0007 Income Tax (Instalment Payments) Act 1974: no section free of post-1975 amendment (13 sections); 1975-0025 Control of Employment Act 1975: no section free of post-1975 amendment (18 sections)
-- Statutes of the Isle of Man, vol. III (1860-1871), ed. J. F. Gill (Douglas, 1888): each Act of Tynwald is one file, its caption, title and text as printed (side notes, running heads and footnotes dropped by position; signatures, Order in Council and promulgation certificate left out; schedules printed after the signatures kept). The text is the uncorrected OCR layer of the archive.org scan: it has misread letters, and is a secondary copy.
-- Statutes of the Isle of Man, vol. III (1860-1871), ed. J. F. Gill (Douglas, 1888): an Act is in force from its promulgation day where the certificate printed after it gives a legible day; otherwise, from its Royal Assent day (In-force-basis: Royal Assent (promulgation day illegible in source OCR)). An Act whose two Royal Assent readings disagree, or whose day cannot be read at all, is held.
+- Statutes of the Isle of Man, vol. III (1860-1871), ed. J. F. Gill (Douglas, 1888): each Act of Tynwald is one file, its caption, title and text as printed (side notes, running heads and footnotes dropped by position; signatures, Order in Council and promulgation certificate left out; schedules printed after the signatures kept). The text is the uncorrected OCR layer of the archive.org scan: it has misread letters, and is a secondary copy (approved 2026-11-26).
+- Statutes of the Isle of Man, vol. III (1860-1871), ed. J. F. Gill (Douglas, 1888): an Act is in force from its promulgation day where the certificate printed after it gives a legible day; otherwise, as approved 2026-11-26, from its Royal Assent day (In-force-basis: Royal Assent (promulgation day illegible in source OCR)). An Act whose two Royal Assent readings disagree, or whose day cannot be read at all, is held.
 - Statutes of the Isle of Man, vol. III (1860-1871), ed. J. F. Gill (Douglas, 1888): held (30): leaf 17: An Act to provide for the better pavings cleansiDg^ and lighting the (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 32: An Act concerning Wrecks on the coast of the Isle of Man. (2 promulgation certificates in one block: an Act start was missed); leaf 57: An Act to amend an Act promulgated in the year one thousand eight hundred and fi (the text read ends mid-sentence (its end was not found)); leaf 59: An Act to provide an Asylum for Lunatics and insane Persons.^ (3 promulgation certificates in one block: an Act start was missed); leaf 106: An Act for supplying the town of Peel with Water/ (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 118: An Act for the puDishment of Larceny and Embezzlement in certain cases.^ (Royal Assent days read disagree: 1864-02-03, 1864-06-10); leaf 130: An Act to farther amend " An Act to provide for the better pavings cleansing^ an (Royal Assent days read disagree: 1864-07-09, 1864-07-28); leaf 165: An Act, intituled " The Summary Jurisdiction Act, 1864;'' being an Act to consol (Royal Assent days read disagree: 1864-07-28, 1865-03-09, 1866-06-29); leaf 204: An Act for the well ordering of Common Lodging Houses.^ (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 212: An Act to provide for the better paving, cleansing, and lighting the streets of  (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 223: no title line (no title line); leaf 269: no title line (no title line); leaf 274: An Act intituled ^* The Companies' Act, 1865;" being an Act for the Incorporatio (the text read may stop short of the Act's end (more than 3 pages before its certificate)); leaf 350: An Act, entituled '^ The Disafforesting Commoners' Allotment Act, 1866/' being a (the text read ends mid-sentence (its end was not found)); leaf 374: An Act intituled " The Cattle Diseases Prevention Act, 1866, being an Act to ame (the text read ends mid-sentence (its end was not found)); leaf 385: An Act for amendiiig the Law as to taking Inquests of Death. (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 388: no title line (no title line); leaf 434: no title line (no title line); leaf 441: no title line (no title line); leaf 445: An Act to Prevent the Distillation of Spirits. (day read (1807-06-26) outside the volume (1859-1872): a misread year); leaf 451: An Act to prevent the Destruction of Sea Gulls. (the text read ends mid-sentence (its end was not found)); leaf 454: no title line (no title line); leaf 481: no title line (no title line); leaf 494: An Act to provide Additional Burial Ground for the Parish of Rushen.^ (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 503: An Act for providing a New Hoad and for the acquisition of Land for the purposes (the text read ends mid-sentence (its end was not found)); leaf 509: An Act to Begulate the Fees of Constables, and the Wages of Allowances to Witnes (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 513: An Act for preventing the Adulteration of Articles of Food and Drink, and for th (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 517: An Act to amend the Law of Evidence, and for other purposes. (neither the promulgation day nor the Royal Assent day is legible in the text layer); leaf 530: An Act for Consolidating in One Act certain Pro- yisions authorizing the taking  (the text read ends mid-sentence (its end was not found)); leaf 567: An Act to provide for the safe keeping of Gunpowder, Petroleum, and other Danger (the text read ends mid-sentence (its end was not found))
 
 ## What AI did and did not do

@@ -164,6 +164,7 @@
     "seeds-amendment-1939",
     "sex-disqualification-removal-1921",
     "slaughter-of-animals-1936",
+    "statutory-time-et-cetera-1883",
     "summary-jurisdiction-1960",
     "tenancies-implied-terms-1954",
     "tourist-1975",
@@ -178,13 +179,13 @@
     "war-memorials-local-authorities-powers-1927",
     "wild-birds-protection-1932"
    ],
-   "sha256": "bb34f40c8bdbc04aeca69219282fc826bf0c82175c79fbc6db4165b4248b1717"
+   "sha256": "0f880b020c7672cc5b9cd373b3cc261323d4aaf8354e4e77c2de6a04ce3fa14a"
   },
   "30-statutes-1860-1871.json": {
    "acts": [
     "statutes-1860-1871"
    ],
-   "sha256": "a967cd56028027408b5f1870db94132a1e193ebe5d3d400fc0d8ef1b4acc4e95"
+   "sha256": "12c6d329bebbcf58eba577e939fc0a614f3a893e1ad9d1b71b8bc6e7e3903977"
   }
  },
  "schema": 1

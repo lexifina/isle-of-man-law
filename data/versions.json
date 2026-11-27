@@ -5058,6 +5058,23 @@
    ]
   },
   {
+   "slug": "statutory-time-et-cetera-1883",
+   "short": "Statutory Time et cetera Act 1883",
+   "title": "Statutory Time et cetera Act 1883",
+   "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0004/1883-0004_1.pdf",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0004/1883-0004_1.pdf",
+     "sha256": "9beb071d523f657af50d0d28997429a7471f4a313ed3df9eeb98d9484b1b5072"
+    }
+   ]
+  },
+  {
    "slug": "judgments-enforcement-1886",
    "short": "Judgments Enforcement Act 1886",
    "title": "Judgments Enforcement Act 1886",

@@ -1,5 +1,5 @@
 """Isle of Man: corpus.d part for the Acts of Tynwald read from Gill's Statutes of the Isle of Man (archive.org text
-layer of a Google Books scan), approved by Alan 2026-11-26.
+layer of a Google Books scan), approved 2026-11-26.
 
     python -I part_gill.py <acts.json from parse_gill.py> <identifier> <volume label> <slug> <part file>
 
@@ -71,7 +71,6 @@ def main():
                 f'In-force-basis: {basis}',
                 f'Source-status: secondary copy (Internet Archive, Google Books scan of {vol}, {url})',
                 'Text-source: publisher OCR (the scan\'s uncorrected text layer; no OCR of our own)',
-                'Approved: Alan 2026-11-26 (Gill text; Royal Assent day where the promulgation day is illegible)',
             ]}
         paras = []
         for p in a['paragraphs']:
@@ -100,7 +99,7 @@ def main():
                      'licence': 'Public domain (printed 1883-1888; Acts of 1871 and earlier are out of copyright). '
                                 "Google's usage guidelines on the scan ask for non-commercial use and attribution; "
                                 'they are requests, not licence terms.',
-                     'notes': 'Secondary copy, uncorrected OCR text layer. Approved by Alan 2026-11-26.'}],
+                     'notes': 'Secondary copy, uncorrected OCR text layer. Approved 2026-11-26.'}],
         'laws': laws,
         'acts': [{'slug': slug, 'short': act_short,
                   'title': vol, 'url': url, 'first_law': first_law, 'earlier_laws': [],
@@ -113,9 +112,9 @@ def main():
             f'{vol}: each Act of Tynwald is one file, its caption, title and text as printed (side notes, running heads '
             'and footnotes dropped by position; signatures, Order in Council and promulgation certificate left out; '
             'schedules printed after the signatures kept). The text is the uncorrected OCR layer of the archive.org scan: '
-            'it has misread letters, and is a secondary copy (approved by Alan 2026-11-26).',
+            'it has misread letters, and is a secondary copy (approved 2026-11-26).',
             f'{vol}: an Act is in force from its promulgation day where the certificate printed after it gives a legible day; '
-            'otherwise, as Alan approved on 2026-11-26, from its Royal Assent day (In-force-basis: Royal Assent '
+            'otherwise, as approved 2026-11-26, from its Royal Assent day (In-force-basis: Royal Assent '
             '(promulgation day illegible in source OCR)). An Act whose two Royal Assent readings disagree, or whose day '
             'cannot be read at all, is held.',
             f'{vol}: held ({len(held)}): ' + '; '.join(held) if held else f'{vol}: nothing held.',

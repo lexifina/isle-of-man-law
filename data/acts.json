@@ -421,6 +421,27 @@
    "complete": false
   },
   {
+   "slug": "statutory-time-et-cetera-1883",
+   "path": "statutory-time-et-cetera-1883",
+   "id": null,
+   "eli": null,
+   "title": "Statutory Time et cetera Act 1883",
+   "short": "Statutory Time et cetera Act 1883",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/1883/1883-0004/1883-0004_1.pdf",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": null,
+   "images_complete": false,
+   "complete": false
+  },
+  {
    "slug": "judgments-enforcement-1886",
    "path": "judgments-enforcement-1886",
    "id": null,
