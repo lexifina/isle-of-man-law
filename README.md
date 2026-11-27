@@ -50,7 +50,7 @@ Each commit is dated at noon, Europe/London, on the day the version took effect,
 - for an Act's text, the day the Act itself prints: its commencement day, otherwise its promulgation ("Passed") day, otherwise its Royal Assent day (`In-force-basis` says which). Only sections with no amendment note are kept, so their words are as enacted. These versions were first dated by the day the revised edition was published or captured; `Kind: correction` commits of 27 November 2026 re-date them, and the earlier commits keep their first `In-force:` day;
 - for an Act in `statutes-1860-1871/`, its promulgation day where the certificate printed after it is legible, otherwise its Royal Assent day (`In-force-basis: Royal Assent (promulgation day illegible in source OCR)`);
 - for a catalogue entry, the Act's Royal Assent day, not its commencement; days before 1752 are given as the list gives them, with no change of calendar;
-- git cannot store dates before 1970, so the 473 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
+- git cannot store dates before 1970, so the 476 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
 
 No section is yet credited to an act: each Act's text is credited to its publisher, the Isle of Man Government, Attorney General's Chambers (legislation.gov.im), and each catalogue day to `Acts of Tynwald assented on <date>` (the first, 1645, to the Wikipedia list's contributors). The committer is always Lexifina.
 
